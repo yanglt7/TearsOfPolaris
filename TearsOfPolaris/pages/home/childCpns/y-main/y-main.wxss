@@ -1,0 +1,11 @@
+/* pages/home/childCpns/y-main/y-main.wxss */
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 8rpx;
+}
+
+.main .main-item {
+  width: 30%;
+}

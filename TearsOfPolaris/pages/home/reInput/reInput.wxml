@@ -1,0 +1,39 @@
+<!--pages/home/reInput/reInput.wxml-->
+<view class="page">
+    <view class="page__hd">
+      <view class="page__title">试剂回库</view>
+      <view class="page__desc">试剂回库需经试剂仓库管理员审核</view>
+    </view>
+    <view class="page__bd">
+      <view class="weui-cells weui-cells_after-title">
+        <form bindsubmit="formsubmit">
+          <!-- *申领订单编号 -->
+          <y-label title="申领订单编号" id="apply_order_id" name="apply_order_id" type="number" bind:no_focus="apply_order_id_no_focus" />
+          <!-- 数量 -->
+          <y-label title="数量" id="count" name="count" type="number" maxlength="4" bind:no_focus="count_no_focus" />
+          <!-- 归还时间 -->
+        <view class="weui-cell ">
+          <view class="weui-cell__hd">
+            <view class="weui-label">归还时间</view>
+          </view>
+          <view class="weui-cell__bd">
+            <picker mode="date" value="{{date}}" start="{{startDate}}" end="{{endDate}}" bindchange="bindDateChange">
+              <view class="picker">{{date}}</view>
+            </picker>
+          </view>
+        </view>
+
+          <view class="weui-cells__tips">
+            <view>*暂仅支持提前一周预约回库</view>
+            <view>*若未按规定时间回库，则需重新申请</view>
+          </view>
+
+          <!-- 提交表单 -->
+          <view class="weui-btn-area">
+            <button class="weui-btn" type="primary" form-type="submit" bindtap="btnClick">提交</button>
+          </view>
+        </form>
+      </view>
+    </view>
+</view>
+

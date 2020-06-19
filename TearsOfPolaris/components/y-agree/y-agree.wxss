@@ -1,0 +1,2 @@
+/* components/y-agree/y-agree.wxss */
+@import '/assets/wxss/agree.wxss';

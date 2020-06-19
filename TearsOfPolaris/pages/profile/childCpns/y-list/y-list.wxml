@@ -1,0 +1,23 @@
+<!--pages/profile/childCpns/y-list/y-list.wxml-->
+<view class="weui-cells__title"></view>
+<view class="weui-cells weui-cells_after-title">
+  <!-- 我的消息 -->
+  <y-list-item item_id="message" item_img="{{message_img}}" item_title="我的消息" bind:onClick="handleClick" />
+</view>
+<view class="weui-cells__title"></view>
+<view class="weui-cells weui-cells_after-title">
+  <!-- 意见反馈 -->
+  <y-list-item item_id="feedback" item_img="{{feedback_img}}" item_title="意见反馈" bind:onClick="handleClick" />
+  <!-- 关于我们 -->
+  <y-list-item item_id="aboutUs" item_img="{{aboutUs_img}}" item_title="关于我们" bind:onClick="handleClick" line-class="line-class" />
+</view> 
+
+<!-- <navigator url="/pages/profile/aboutUs/aboutUs" class="weui-cell" hover-class="weui-cell_active" hover-start-time="10" hover-stay-time="100" bindtap="handleClick" id="aboutUs">
+  <view class="weui-cell__hd">
+    <image src="{{aboutUs}}" class="hd_icon" />
+  </view>
+  <view class="weui-cell__bd">关于我们</view>
+  <view class="weui-cell__ft ">
+    <image src="{{ft_arrow}}" class="ft_icon" />
+  </view>
+</navigator> -->

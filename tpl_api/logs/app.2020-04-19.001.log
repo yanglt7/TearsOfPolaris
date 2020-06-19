@@ -1,0 +1,170 @@
+2020/04/18 14:31:56.172 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 14:32:14.134 [D] [server.go:2807]  |            ::1|[43m 405 [0m|           0s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 14:32:22.504 [I] [router.go:835]  apply/errCode&errMsg:  0 apply请求成功
+2020/04/18 14:32:22.505 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   261.3791ms|   match|[46m POST    [0m /msds   r:/msds
+2020/04/18 14:32:49.903 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 14:36:55.487 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 14:36:57.462 [I] [router.go:833]  apply/errCode&errMsg:  0 apply请求成功
+2020/04/18 14:36:57.463 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   207.4444ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 14:37:20.127 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 14:38:25.009 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 14:38:40.229 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 14:39:03.812 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 14:39:03.814 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   174.5326ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 14:39:37.071 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 14:39:37.379 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 14:39:37.380 [D] [server.go:2807]  |      127.0.0.1|[42m 200 [0m|   197.4718ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 14:40:24.229 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 14:40:24.229 [D] [server.go:2807]  |      127.0.0.1|[42m 200 [0m|   165.5572ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 14:40:27.177 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 14:40:30.179 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 14:40:30.180 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   157.5781ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 14:40:52.403 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 14:40:52.403 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   725.0456ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 14:40:56.125 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 14:40:57.047 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 14:40:57.049 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   160.5686ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 14:43:59.685 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 14:44:24.737 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 14:44:26.547 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 14:44:29.045 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 14:44:29.046 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   186.5013ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 14:48:42.071 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 14:48:49.333 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 14:48:49.333 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   152.5929ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 14:49:09.285 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 14:49:09.285 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   135.6376ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 14:49:12.884 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 14:49:16.757 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 14:49:16.757 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   169.5461ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 14:51:55.659 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 14:52:20.772 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 14:53:39.538 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 14:53:39.539 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   210.7663ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 14:54:21.923 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:24:57.608 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/18 15:24:57.610 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/18 15:24:57.626 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/18 15:24:57.666 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/18 15:24:57.667 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    59.8431ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/18 15:25:05.086 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/18 15:25:05.087 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/18 15:25:05.088 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/18 15:25:05.097 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/18 15:25:05.098 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    11.9689ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/18 15:32:42.938 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/18 15:32:42.939 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/18 15:32:42.940 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/18 15:32:42.941 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/18 15:32:42.954 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    15.9598ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/18 15:35:14.483 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:35:51.424 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 15:35:51.426 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   1.5407152s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 15:37:26.260 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:37:51.162 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/18 15:37:51.234 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 15:37:51.235 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   369.0082ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 15:38:45.854 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:39:28.147 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:39:30.015 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:39:31.336 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/18 15:39:37.129 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 15:39:37.129 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   6.0498319s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 15:40:03.808 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:40:14.174 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/18 15:40:25.358 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 15:40:25.359 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   13.733079s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 15:42:56.334 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:42:56.609 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/18 15:42:56.615 [I] [msds.go:18]  msds/name: 
+2020/04/18 15:43:07.197 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 15:43:07.198 [D] [server.go:2807]  |      127.0.0.1|[42m 200 [0m|  10.7803683s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 15:46:42.629 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:51:20.872 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:51:22.628 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:51:32.284 [C] [panic.go:967]  the request url is  /msds
+2020/04/18 15:51:32.286 [C] [panic.go:967]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2020/04/18 15:51:32.287 [C] [panic.go:967]  c:/go/src/runtime/panic.go:967
+2020/04/18 15:51:32.292 [C] [panic.go:967]  c:/go/src/io/ioutil/ioutil.go:30
+2020/04/18 15:51:32.293 [C] [panic.go:967]  c:/go/src/runtime/panic.go:967
+2020/04/18 15:51:32.293 [C] [panic.go:967]  c:/go/src/runtime/panic.go:212
+2020/04/18 15:51:32.295 [C] [panic.go:967]  c:/go/src/runtime/signal_windows.go:246
+2020/04/18 15:51:32.296 [C] [panic.go:967]  c:/go/src/bytes/buffer.go:204
+2020/04/18 15:51:32.297 [C] [panic.go:967]  c:/go/src/io/ioutil/ioutil.go:36
+2020/04/18 15:51:32.298 [C] [panic.go:967]  c:/go/src/io/ioutil/ioutil.go:45
+2020/04/18 15:51:32.300 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/tpl_api/controllers/querymsds.go:32
+2020/04/18 15:51:32.301 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/tpl_api/controllers/msds.go:18
+2020/04/18 15:51:32.304 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/github.com/astaxie/beego/router.go:833
+2020/04/18 15:51:32.315 [C] [panic.go:967]  c:/go/src/net/http/server.go:2807
+2020/04/18 15:51:32.316 [C] [panic.go:967]  c:/go/src/net/http/server.go:1895
+2020/04/18 15:51:32.317 [C] [panic.go:967]  c:/go/src/runtime/asm_amd64.s:1373
+2020/04/18 15:51:32.320 [server.go:3059]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2020/04/18 15:52:01.657 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:52:24.834 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:52:25.089 [C] [panic.go:967]  the request url is  /msds
+2020/04/18 15:52:25.089 [C] [panic.go:967]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2020/04/18 15:52:25.091 [C] [panic.go:967]  c:/go/src/runtime/panic.go:967
+2020/04/18 15:52:25.095 [C] [panic.go:967]  c:/go/src/io/ioutil/ioutil.go:30
+2020/04/18 15:52:25.095 [C] [panic.go:967]  c:/go/src/runtime/panic.go:967
+2020/04/18 15:52:25.097 [C] [panic.go:967]  c:/go/src/runtime/panic.go:212
+2020/04/18 15:52:25.097 [C] [panic.go:967]  c:/go/src/runtime/signal_windows.go:246
+2020/04/18 15:52:25.099 [C] [panic.go:967]  c:/go/src/bytes/buffer.go:204
+2020/04/18 15:52:25.100 [C] [panic.go:967]  c:/go/src/io/ioutil/ioutil.go:36
+2020/04/18 15:52:25.101 [C] [panic.go:967]  c:/go/src/io/ioutil/ioutil.go:45
+2020/04/18 15:52:25.102 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/tpl_api/controllers/querymsds.go:32
+2020/04/18 15:52:25.103 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/tpl_api/controllers/msds.go:18
+2020/04/18 15:52:25.104 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/github.com/astaxie/beego/router.go:833
+2020/04/18 15:52:25.105 [C] [panic.go:967]  c:/go/src/net/http/server.go:2807
+2020/04/18 15:52:25.106 [C] [panic.go:967]  c:/go/src/net/http/server.go:1895
+2020/04/18 15:52:25.111 [C] [panic.go:967]  c:/go/src/runtime/asm_amd64.s:1373
+2020/04/18 15:52:25.112 [server.go:3059]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2020/04/18 15:53:13.559 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:53:13.946 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/18 15:53:13.950 [I] [msds.go:18]  msds/name: 
+2020/04/18 15:53:15.355 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 15:53:15.357 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   1.6119187s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 15:53:50.028 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:55:02.166 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:55:22.022 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:55:24.468 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/18 15:55:24.470 [I] [msds.go:18]  msds/name: 
+2020/04/18 15:55:25.686 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:55:32.473 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/18 15:55:32.474 [I] [msds.go:18]  msds/name: 
+2020/04/18 15:55:33.431 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 15:55:33.432 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   1.1143092s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 15:56:34.422 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:56:35.819 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/18 15:56:35.821 [I] [msds.go:18]  msds/name: 
+2020/04/18 15:56:37.343 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 15:56:37.344 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   1.7033185s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 15:58:56.870 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:59:07.078 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 15:59:08.088 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/18 15:59:08.089 [I] [msds.go:18]  msds/name: 
+2020/04/18 15:59:08.896 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 15:59:08.898 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   1.0034104s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 16:02:59.710 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 16:03:07.056 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 16:03:24.654 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/18 16:03:24.665 [I] [msds.go:18]  msds/name: 
+2020/04/18 16:03:25.512 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 16:03:25.513 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   1.8686826s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 16:07:16.594 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 16:07:17.736 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/18 16:07:17.738 [I] [msds.go:18]  msds/name: 
+2020/04/18 16:07:18.585 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 16:07:18.586 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    1.938821s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 16:11:38.239 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 16:11:53.613 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/18 16:11:53.615 [I] [msds.go:18]  msds/name: 
+2020/04/18 16:11:57.901 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 16:11:57.904 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   4.7653558s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 16:12:32.945 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/18 16:12:32.959 [I] [msds.go:18]  msds/name: 
+2020/04/18 16:12:36.934 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/18 16:12:38.258 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/18 16:12:38.260 [I] [msds.go:18]  msds/name: 
+2020/04/18 16:12:42.429 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/18 16:12:42.431 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   4.4238536s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/18 16:13:19.523 [I] [asm_amd64.s:1373]  http server Running on http://:8080

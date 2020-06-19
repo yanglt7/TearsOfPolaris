@@ -1,0 +1,8 @@
+<!--components/y-footer/y-footer.wxml-->
+<view class="weui-footer weui-footer_fixed-bottom">
+  <view class="weui-footer__links">
+    <navigator url="http://202.116.83.50/hope" class="weui-footer__link">厚朴【HOPE】工作室</navigator>
+    <navigator url="http://ce.sysu.edu.cn" class="weui-footer__link">中山大学化学学院</navigator>
+  </view>
+  <view class="weui-footer__text">Copyright © 2019-2020 Y_momo</view>
+</view>

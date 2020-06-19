@@ -1,0 +1,73 @@
+<!--pages/profile/feedback/y-feedback.wxml-->
+<view class="page">
+  <view class="page__bd">
+    <!-- <view class="weui-cells__title">带跳转的列表项</view> -->
+    <view class="weui-cells__title">请选择反馈的内容</view>
+    <view class="weui-cells weui-cells_after-title">
+      <!-- 无法打开小程序 -->
+      <navigator url="/pages/profile/feedback/feedback-commit/feedback-commit?title=无法打开小程序" class="weui-cell weui-cell_access" hover-class="weui-cell_active" hover-start-time="10" hover-stay-time="100">
+        <view class="weui-cell__bd">无法打开小程序</view>
+        <view class="weui-cell__ft weui-cell__ft_in-access">
+          <image src="{{ft_arrow}}" class="ft_icon" />
+        </view>
+      </navigator>
+
+      <!-- 小程序闪退 -->
+      <navigator url="/pages/profile/feedback/feedback-commit/feedback-commit?title=小程序闪退" class="weui-cell weui-cell_access" hover-class="weui-cell_active" hover-start-time="10" hover-stay-time="100">
+        <view class="weui-cell__bd">小程序闪退</view>
+        <view class="weui-cell__ft weui-cell__ft_in-access">
+          <image src="{{ft_arrow}}" class="ft_icon" />
+        </view>
+      </navigator>
+
+      <!-- 卡顿 -->
+      <navigator url="/pages/profile/feedback/feedback-commit/feedback-commit?title=卡顿" class="weui-cell weui-cell_access" hover-class="weui-cell_active" hover-start-time="10" hover-stay-time="100">
+        <view class="weui-cell__bd">卡顿</view>
+        <view class="weui-cell__ft weui-cell__ft_in-access">
+          <image src="{{ft_arrow}}" class="ft_icon" />
+        </view>
+      </navigator>
+
+      <!-- 黑屏白屏 -->
+      <navigator url="/pages/profile/feedback/feedback-commit/feedback-commit?title=黑屏白屏" class="weui-cell weui-cell_access" hover-class="weui-cell_active" hover-start-time="10" hover-stay-time="100">
+        <view class="weui-cell__bd">黑屏白屏</view>
+        <view class="weui-cell__ft weui-cell__ft_in-access">
+          <image src="{{ft_arrow}}" class="ft_icon" />
+        </view>
+      </navigator>
+
+      <!-- 死机 -->
+      <navigator url="/pages/profile/feedback/feedback-commit/feedback-commit?title=死机" class="weui-cell weui-cell_access" hover-class="weui-cell_active" hover-start-time="10" hover-stay-time="100">
+        <view class="weui-cell__bd">死机</view>
+        <view class="weui-cell__ft weui-cell__ft_in-access">
+          <image src="{{ft_arrow}}" class="ft_icon" />
+        </view>
+      </navigator>
+
+      <!-- 界面错位 -->
+      <navigator url="/pages/profile/feedback/feedback-commit/feedback-commit?title=界面错位" class="weui-cell weui-cell_access" hover-class="weui-cell_active" hover-start-time="10" hover-stay-time="100">
+        <view class="weui-cell__bd">界面错位</view>
+        <view class="weui-cell__ft weui-cell__ft_in-access">
+          <image src="{{ft_arrow}}" class="ft_icon" />
+        </view>
+      </navigator>
+
+      <!-- 界面加载慢 -->
+      <navigator url="/pages/profile/feedback/feedback-commit/feedback-commit?title=界面加载慢" class="weui-cell weui-cell_access" hover-class="weui-cell_active" hover-start-time="10" hover-stay-time="100">
+        <view class="weui-cell__bd">界面加载慢</view>
+        <view class="weui-cell__ft weui-cell__ft_in-access">
+          <image src="{{ft_arrow}}" class="ft_icon" />
+        </view>
+      </navigator>
+
+      <!-- 其他异常 -->
+      <navigator url="/pages/profile/feedback/feedback-commit/feedback-commit?title=其他异常" class="weui-cell weui-cell_access" hover-class="weui-cell_active" hover-start-time="10" hover-stay-time="100">
+        <view class="weui-cell__bd">其他异常</view>
+        <view class="weui-cell__ft weui-cell__ft_in-access">
+          <image src="{{ft_arrow}}" class="ft_icon" />
+        </view>
+      </navigator>
+
+    </view>
+  </view>
+</view>

@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "y-header": "/pages/profile/childCpns/y-header/y-header",
+    "y-list": "/pages/profile/childCpns/y-list/y-list"
+  },
+  "navigationBarTitleText": "个人中心",
+  "enablePullDownRefresh": true
+}

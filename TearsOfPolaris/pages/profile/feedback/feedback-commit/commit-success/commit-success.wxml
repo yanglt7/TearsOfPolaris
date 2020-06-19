@@ -1,0 +1,6 @@
+<!--pages/profile/feedback/feedback-commit/msg-success/commit-success.wxml-->
+<view class="page">
+  <view class="page__bd">
+    <y-commit-success bind:handleNavigate="handleNavigate"/>
+  </view>
+</view>

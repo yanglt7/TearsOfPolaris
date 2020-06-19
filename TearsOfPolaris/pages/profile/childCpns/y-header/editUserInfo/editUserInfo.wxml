@@ -1,0 +1,57 @@
+<!--pages/profile/childCpns/y-header/editUserInfo/editUserInfo.wxml-->
+<view class="page">
+  <view class="page__hd">
+    <view class="desc">编辑个人信息</view>
+    <view class="save" bindtap="onSave">
+      <icon type="success_no_circle" size="12" color="#6699ff"></icon>
+      保存
+    </view>
+  </view>
+  <view class="page__bd">
+    <!-- 1.显示头像 -->
+    <view class="avatar">
+      <open-data type="userAvatarUrl"/>
+    </view>
+    <!-- 2.表单 -->
+    <!-- 姓名 -->
+    <view class="weui-cell">
+      <view class="weui-cell__hd">
+        <view class="weui-label">姓名*</view>
+      </view>
+      <view class="weui-cell__bd">
+        <input class="weui-input" placeholder="请输入姓名" bindblur="name_no_focus" />
+      </view>
+    </view>
+    <!-- 分割线 -->
+    <view class="weui-cells__title"></view>
+    <!-- 身份 -->
+    <view class="weui-cell weui-cell_select">
+      <view class="weui-cell__hd">
+        <view class="weui-label">身份</view>
+      </view>
+      <view class="weui-cell__bd">
+        <picker bindchange="bindIdentityChange" value="{{identityIndex}}" range="{{identity}}">
+          <view class="weui-select">{{identity[identityIndex]}}</view>
+        </picker>
+      </view>
+    </view>
+    <!-- 学号/工号 -->
+    <view class="weui-cell">
+      <view class="weui-cell__hd">
+        <view class="weui-label">学号/工号*</view>
+      </view>
+      <view class="weui-cell__bd">
+        <input class="weui-input" type="number" placeholder="请输入学号/工号" bindblur="user_id_no_focus" />
+      </view>
+    </view>
+    <!-- 邮箱 -->
+    <view class="weui-cell">
+      <view class="weui-cell__hd">
+        <view class="weui-label">邮箱</view>
+      </view>
+      <view class="weui-cell__bd">
+        <input class="weui-input" placeholder="请输入常用邮箱" bindblur="email_no_focus" />
+      </view>
+    </view>
+  </view>
+</view>

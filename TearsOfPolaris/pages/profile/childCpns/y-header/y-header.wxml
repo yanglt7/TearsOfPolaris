@@ -1,0 +1,17 @@
+<!--pages/profile/childCpns/y-header/y-header.wxml-->
+<view class='header'>
+  <view class='header_hd'>
+    <view class="avatar">
+      <open-data type="userAvatarUrl" />
+    </view>
+  </view>
+  <view class='header_bd'>
+    <view class="showUserInfo">
+      <view class="nickName">
+        <open-data type="userNickName" />
+      </view>
+      <view class="role" bindtap="onAdmin">{{role}}</view>
+    </view>
+    <button class='editUserInfo' bindtap="getUserInfo">编辑个人资料</button>
+  </view>
+</view>

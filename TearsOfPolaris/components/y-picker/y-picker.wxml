@@ -1,0 +1,13 @@
+<!--components/y-picker/y-picker.wxml-->
+<view class="weui-cell ">
+  <view class="weui-cell__hd">
+    <view class="weui-label">{{label}}</view>
+  </view>
+  <view class="weui-cell__bd picker__bd">
+    <picker bindchange="bindPickerChange" value="{{index}}" range="{{array}}">
+      <view class="picker">
+        {{array[index]}}
+      </view>
+    </picker>
+  </view>
+</view>

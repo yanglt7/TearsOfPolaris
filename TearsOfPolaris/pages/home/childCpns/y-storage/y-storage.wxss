@@ -1,0 +1,17 @@
+/* pages/home/childCpns/y-storage/y-storage.wxss */
+@import '/assets/wxss/cell.wxss';
+
+.storage {
+  display: flex;
+}
+
+.title {
+  font-size: 32rpx;
+  color: rgba(0, 0, 0, .5);
+  width: 28%;
+  margin: 0 20rpx 0 10rpx;
+}
+
+.desc {
+  font-size: 32rpx;
+}

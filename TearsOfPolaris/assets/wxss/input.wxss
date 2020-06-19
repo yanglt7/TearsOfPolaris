@@ -1,0 +1,6 @@
+.weui-input {
+  height: 1.41176471em;
+  min-height: 1.41176471em;
+  line-height: 1.41176471;
+  font-size: 32rpx;
+}

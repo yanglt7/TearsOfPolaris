@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "y-list-item": "/pages/profile/childCpns/y-list/y-list-item/y-list-item"
+  }
+}

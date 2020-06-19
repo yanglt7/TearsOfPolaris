@@ -1,0 +1,5 @@
+<!--pages/home/childCpns/y-storage/y-storage.wxml-->
+<view class="storage weui-cell">
+  <view class="title">{{title}}</view>
+  <view class="desc">{{desc}}</view>
+</view>

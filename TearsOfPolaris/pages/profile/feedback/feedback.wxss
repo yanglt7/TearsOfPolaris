@@ -1,0 +1,19 @@
+/* pages/profile/feedback/y-feedback.wxss */
+@import '/assets/wxss/cell.wxss';
+
+.weui-cells__title {
+  text-align: center;
+  margin: 100rpx auto;
+  color: rgba(0, 0, 0, 0.9);
+  font-size: 36rpx;
+  font-weight: 700;
+}
+
+.weui-cell_active {
+  color: #69f;
+}
+
+.weui-cell__ft .ft_icon {
+  width: 40rpx;
+  height: 40rpx;
+}

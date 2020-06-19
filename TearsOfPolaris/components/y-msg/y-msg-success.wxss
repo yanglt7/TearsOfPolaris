@@ -1,0 +1,124 @@
+/* components/y-msg/y-msg-success.wxss */
+
+/*!
+ * WeUI v2.0.1 (https://github.com/weui/weui-wxss)
+ * Copyright 2019 Tencent,Inc.
+ * Licensed under the MIT license
+ */
+
+.weui-msg {
+  padding-top: 88rpx;
+  padding: calc(72rpx + constant(safe-area-inset-top)) constant(safe-area-inset-right) constant(safe-area-inset-bottom) constant(safe-area-inset-left);
+  padding: calc(72rpx + env(safe-area-inset-top)) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+  text-align: center;
+  line-height: 1.4;
+  min-height: 100%;
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  background-color: #fff;
+}
+
+.weui-msg__link {
+  color: #576b95;
+  display: inline-block;
+  vertical-align: baseline;
+}
+
+.weui-msg__icon-area {
+  margin: 64rpx auto;
+}
+
+.weui-msg__text-area {
+  margin-bottom: 64rpx;
+  padding: 0 64rpx;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  flex: 1;
+  line-height: 1.6;
+}
+
+.weui-msg__text-area:first-child {
+  padding-top: 192rpx;
+}
+
+.weui-msg__title {
+  margin-bottom: 10rpx;
+  font-weight: 700;
+  font-size: 36rpx;
+  color: rgba(0, 0, 0, 0.8);
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+.weui-msg__desc {
+  font-size: 32rpx;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.weui-msg__desc, .weui-msg__desc-primary {
+  word-wrap: break-word;
+  word-break: break-all;
+  margin-bottom: 32rpx;
+}
+
+.weui-msg__desc-primary {
+  font-size: 28rpx;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.weui-msg__opr-area {
+  margin-bottom: 32rpx;
+}
+
+.weui-msg__opr-area .weui-btn-area {
+  margin: 0 160rpx;
+}
+
+.weui-msg__opr-area .weui-btn+.weui-btn {
+  margin-bottom: 32rpx;
+}
+
+.weui-msg__opr-area:last-child {
+  margin-bottom: 192rpx;
+}
+
+.weui-msg__opr-area+.weui-msg__extra-area {
+  margin-top: 92rpx;
+}
+
+.weui-msg__tips-area {
+  margin-bottom: 32rpx;
+  padding: 0 80rpx;
+}
+
+.weui-msg__opr-area+.weui-msg__tips-area {
+  margin-bottom: 96rpx;
+}
+
+.weui-msg__tips-area:last-child {
+  margin-bottom: 128rpx;
+}
+
+.weui-msg__extra-area, .weui-msg__tips {
+  font-size: 24rpx;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.weui-msg__extra-area {
+  /* margin-bottom: 48rpx; */
+}
+
+.weui-footer_fixed-bottom {
+  position: fixed;
+  bottom: 15rpx;
+  bottom: calc(32rpx + constant(safe-area-inset-bottom));
+  bottom: calc(32rpx + env(safe-area-inset-bottom));
+  left: 0;
+  right: 0;
+}

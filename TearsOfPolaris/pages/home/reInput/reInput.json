@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "y-label": "/components/y-label/y-label"
+  },
+  "navigationBarTitleText": "试剂回库"
+}

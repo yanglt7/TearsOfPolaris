@@ -1,0 +1,44 @@
+/* pages/home/output/output.wxss */
+@import '/assets/wxss/cell.wxss';
+@import '/assets/wxss/btn-area.wxss';
+
+.page__bd {
+  padding: 50rpx 30rpx;
+}
+
+.myorder {
+  background-color: #fff;
+  border-radius: 30rpx;
+  border: 2rpx solid rgba(0, 0, 0, .2);
+}
+
+.myorder_hd {
+  display: flex;
+  justify-content: space-between;
+  padding: 12rpx 36rpx;
+}
+
+.myorder_hd .title {
+  font-size: 32rpx;
+}
+
+.myorder_hd .desc {
+  font-size: 28rpx;
+  color: rgba(0, 0, 0, .3)
+}
+
+.myorder_bd {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 12rpx;
+}
+
+.myorder_bd .item {
+  width: 30%;
+}
+
+/* reset css */
+.weui-cells:before {
+  display: none
+}

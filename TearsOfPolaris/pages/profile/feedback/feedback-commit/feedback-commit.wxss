@@ -1,0 +1,31 @@
+/* pages/profile/feedback/feedback/feedback-commit.wxss */
+@import '/assets/wxss/cell.wxss';
+@import '/assets/wxss/toptips.wxss';
+@import '/assets/wxss/check.wxss';
+@import '/assets/wxss/agree.wxss';
+@import '/assets/wxss/select.wxss';
+@import '/assets/wxss/btn-area.wxss';
+
+.feedback-commit_title {
+  margin: 40rpx auto;
+  font-size: 36rpx;
+  padding: 10rpx;
+}
+
+.weui-input {
+  height: 1.41176471em;
+  min-height: 1.41176471em;
+  line-height: 1.41176471;
+}
+
+.weui-agree {
+  margin: 80rpx 0 30rpx 0;
+}
+
+.uploader_title {
+  font-size: 36rpx;
+}
+
+.agree_text {
+  color: rgba(0, 0, 0, 0.4);
+}

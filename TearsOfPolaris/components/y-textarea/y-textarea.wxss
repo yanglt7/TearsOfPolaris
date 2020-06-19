@@ -1,0 +1,13 @@
+/* components/y-textarea/y-textarea.wxss */
+@import '/assets/wxss/cell.wxss';
+
+.weui-textarea {
+  display: block;
+  width: 100%;
+  height: 200rpx;
+}
+
+.weui-textarea-counter {
+  color: rgba(0, 0, 0, 0.3);
+  text-align: right;
+}

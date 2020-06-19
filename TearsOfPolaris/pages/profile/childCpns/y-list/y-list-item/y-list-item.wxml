@@ -1,0 +1,10 @@
+<!--pages/profile/childCpns/y-list/y-list-item/y-list-item.wxml-->
+<view id="{{item_id}}" class="weui-cell line-class" hover-class="weui-cell_active" bindtap="handleClick">
+  <view class="weui-cell__hd">
+    <image src="{{item_img}}" class="hd_icon" />
+  </view>
+  <view class="weui-cell__bd">{{item_title}}</view>
+  <view class="weui-cell__ft">
+    <image src="{{ft_arrow}}" class="ft_icon" />
+  </view>
+</view> 

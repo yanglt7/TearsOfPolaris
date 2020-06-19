@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "y-agree": "/components/y-agree/y-agree"
+  },
+  "navigationBarTitleText": "个人信息"
+}

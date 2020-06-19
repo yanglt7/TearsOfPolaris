@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/home/input/input",
+    "pages/home/bill/bill",
+    "pages/home/note/note",
+    "pages/home/record/record",
+    "pages/home/storage/storage",
+    "pages/home/storage/storage-commit/storage-commit",
+    "pages/home/apply/apply",
+    "pages/home/output/output",
+    "pages/home/output/orderlist/orderlist",
+    "pages/home/reInput/reInput",
+    "pages/home/recycle/recycle",
+    "pages/profile/profile",
+    "pages/profile/message/message",
+    "pages/profile/feedback/feedback",
+    "pages/profile/feedback/feedback-commit/feedback-commit",
+    "pages/profile/feedback/feedback-commit/commit-success/commit-success",
+    "pages/profile/aboutUs/aboutUs",
+    "pages/profile/childCpns/y-header/editUserInfo/editUserInfo",
+    "pages/profile/childCpns/y-header/getUserInfo/getUserInfo",
+    "pages/profile/childCpns/y-header/saveUserInfo/saveUserInfo",
+    "pages/home/note/note-commit/note-commit",
+    "pages/home/msds/msds"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#6699ff",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "white",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  },
+  "tabBar": {
+    "selectedColor": "#6699ff",
+    "color": "#666",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "color": "#666",
+        "iconPath": "assets/img/tabbar/home.png",
+        "selectedIconPath": "assets/img/tabbar/home-active.png"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "我的",
+        "iconPath": "assets/img/tabbar/profile.png",
+        "selectedIconPath": "assets/img/tabbar/profile-active.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

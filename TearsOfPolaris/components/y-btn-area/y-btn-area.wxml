@@ -1,0 +1,7 @@
+<!--components/y-btn-area/y-btn-area.wxml-->
+<view class="weui-btn-area">
+  <navigator url="{{naviUrl}}">
+    <button class="weui-btn" type="primary">提交</button>
+  </navigator>
+</view>
+<view class="bottomarea"></view>

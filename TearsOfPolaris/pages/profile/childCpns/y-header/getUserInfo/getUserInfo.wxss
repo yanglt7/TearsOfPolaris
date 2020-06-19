@@ -1,0 +1,45 @@
+/* pages/profile/childCpns/y-header/getUserInfo/getUserInfo.wxss */
+@import '/assets/wxss/btn-area.wxss';
+
+.header {
+  display: flex;
+  padding: 30rpx 10rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+}
+
+.header .logo {
+  width: 60rpx;
+  height: 60rpx;
+  border-radius: 60rpx;
+  vertical-align: middle;
+  margin-right: 20rpx;
+}
+
+.title {
+  font-size: 32rpx;
+  color: rgba(0, 0, 0, 0.8);
+  margin-right: 20rpx;
+}
+
+.desc {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 32rpx;
+}
+
+.content{
+  font-size: 48rpx;
+  padding: 30rpx 10rpx;
+}
+
+.agree_text {
+  font-size: 32rpx;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.weui-btn {
+  position: fixed;
+  bottom: 180rpx;
+  left: 0;
+  right: 0;
+}

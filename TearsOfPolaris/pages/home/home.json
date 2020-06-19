@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "y-searchbar": "/pages/home/childCpns/y-searchbar/y-searchbar",
+    "y-swiper": "/pages/home/childCpns/y-swiper/y-swiper",
+    "y-tab-control": "/components/y-tab-control/y-tab-control",
+    "y-main": "/pages/home/childCpns/y-main/y-main",
+    "y-footer": "/components/y-footer/y-footer"
+  },
+  "navigationBarTitleText": "太平长安"
+}

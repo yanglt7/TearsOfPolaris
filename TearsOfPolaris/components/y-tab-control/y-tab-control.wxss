@@ -1,0 +1,24 @@
+/* pages/home/childCpns/y-tab-control/y-tab-control.wxss */
+.tab-control {
+  display: flex;
+  margin-bottom: 16rpx;
+}
+
+.tab-control-item {
+  flex: 1;
+  text-align: center;
+  height: 80rpx;
+  line-height: 80rpx;
+  font-size: 32rpx;
+  color: #666;
+}
+
+.active {
+  color: #6699ff;
+}
+
+.tab-control-item.active text {
+  padding: 16rpx 10rpx;
+  border-bottom: 6rpx solid#6699ff;
+  color: #6699ff;
+}

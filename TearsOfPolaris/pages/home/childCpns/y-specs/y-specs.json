@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "y-label": "/components/y-label/y-label"
+  }
+}

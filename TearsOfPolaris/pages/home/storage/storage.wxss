@@ -1,0 +1,15 @@
+/* pages/home/storage/storage.wxss */
+@import '/assets/wxss/cell.wxss';
+@import '/assets/wxss/btn-area.wxss';
+
+.weui-btn {
+  border-radius: 60rpx;
+}
+
+/* reset CSS */
+
+.weui-cells:after {
+  /* display: none; */
+  bottom: 186rpx;
+  border-bottom: 2rpx solid rgba(0, 0, 0, 0.1);
+}

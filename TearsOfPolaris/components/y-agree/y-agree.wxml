@@ -1,0 +1,12 @@
+<!--components/y-agree/y-agree.wxml-->
+<checkbox-group bindchange="bindAgreeChange">
+  <label class="weui-agree" for="weuiAgree">
+    <view class="agree_text">
+      <checkbox class="weui-agree__checkbox" id="weuiAgree" value="agree" checked="{{isAgree}}" />
+      <view class="weui-agree__checkbox-icon">
+        <icon class="weui-agree__checkbox-icon-check" type="{{TYPE}}" size="{{SIZE}}" wx:if="{{isAgree}}"></icon>
+      </view>
+      {{agree_content}}
+    </view>
+  </label>
+</checkbox-group>

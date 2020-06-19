@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "y-commit-success": "/components/y-msg/y-msg-success"
+  }
+}

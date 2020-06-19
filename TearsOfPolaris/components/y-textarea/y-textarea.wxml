@@ -1,0 +1,10 @@
+<!--components/y-textarea/y-textarea.wxml-->
+<view class="weui-cells__title c_titleclass">{{title}}</view>
+<view class="weui-cells weui-cells_after-title">
+  <view class="weui-cell">
+    <view class="weui-cell__bd">
+      <textarea class="weui-textarea" placeholder="{{placeholder}}" bindblur="no_focus" bindinput="focus" maxlength="200" />
+      <view class="weui-textarea-counter">{{strlen}}/200</view>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,40 @@
+<!--pages/profile/feedback/feedback/feedback-commit.wxml-->
+<view class="page">
+  <view class="page__bd">
+
+    <form bindsubmit="formsubmit">
+      <!-- 1.文本域: 无法打开小程序 -->
+      <y-textarea title='{{commit_title}}' placeholder="请填写10个字以上的问题描述以便我们提供更好的帮助" c_titleclass="feedback-commit_title" bind:no_focus='textarea_no_focus' />
+
+      <!-- 2.上传截图 -->
+      <y-uploader title='截图' u_titleclass="uploader_title" />
+
+      <!-- 3.输入联系方式 -->
+      <view class="weui-cells__title feedback-commit_title">联系方式</view>
+      <view class="weui-cells weui-cells_after-title">
+        <view class="weui-cell weui-cell_select">
+          <view class="weui-cell__hd">
+            <picker bindchange="bindCountryCodeChange" value="{{countryCodeIndex}}" range="{{countryCodes}}">
+              <view class="weui-select">{{countryCodes[countryCodeIndex]}}</view>
+            </picker>
+          </view>
+          <view class="weui-cell__bd weui-cell__bd_in-select-before">
+            <input id="phone" name="phone" class="weui-input" placeholder="请输入号码" type="number" maxlength="11" bindblur='phone_no_focus' />
+          </view>
+        </view>
+      </view>
+
+      <!-- 4.AgreeCheckbox -->
+      <y-agree agree_text="agree_text" agree_content="允许开发者在48小时内通过客服消息联系我" />
+
+      <!-- 5.btn-area -->
+      <!-- 提交表单 -->
+      <view class="weui-btn-area">
+        <button class="weui-btn" type="primary" form-type="submit" bindtap="btnClick">提交</button>
+      </view>
+
+      <!-- 修复真机底部空白无法显示 -->
+      <view class="bottom-space"></view>
+    </form>
+  </view>
+</view>

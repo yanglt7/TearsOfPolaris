@@ -1,0 +1,42 @@
+/* pages/profile/aboutUs/aboutUs.wxss */
+
+.aboutUs_bd {
+  padding: 0 20rpx;
+}
+
+.hope_logo {
+  margin: 200rpx auto;
+  text-align: center;
+}
+
+.hope_logo image {
+  width: 172rpx;
+  height: 80rpx;
+  margin-bottom: 60rpx;
+}
+
+.hope_title {
+  font-size: 38rpx;
+  font-weight: 700;
+  color:#6699ff;
+}
+
+.hope_comment {
+  font-size: 28rpx;
+  color:rgba(0,0,0,.5);
+}
+
+.hope_content {
+  font-size: 26rpx;
+  color: rgba(0,0,0,.8);
+  margin-bottom: 20rpx;
+}
+
+.hope_footer {
+  margin-top: 60rpx;
+}
+
+.hope_website,.hope_tel {
+  font-size: 26rpx;
+  color: rgba(0,0,0,.5);
+}

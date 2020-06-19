@@ -1,0 +1,8 @@
+<!--pages/home/note/note-commit/note-commit.wxml-->
+<view class="page">
+  <view class="page__bd">
+    <y-commit-success 
+      desc="试剂使用记录已成功提交，感谢您的配合"
+      bind:handleNavigate="handleNavigate"/>
+  </view>
+</view>

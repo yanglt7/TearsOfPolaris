@@ -1,0 +1,9 @@
+<!--pages/home/childCpns/y-specs/y-specs.wxml-->
+<view class="specs">
+  <y-label class="label" title="规格" id="specs" name="specs" type="number" maxlength="4" bind:no_focus="specs_no_focus" />
+  <picker bindchange="specsPickerChange" value="{{specs_index}}" range="{{specs_array}}">
+    <view class="picker">
+      {{specs_array[specs_index]}}
+    </view>
+  </picker>
+</view>

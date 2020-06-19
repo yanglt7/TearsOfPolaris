@@ -1,0 +1,16 @@
+/* pages/home/apply/apply.wxss */
+@import '/assets/wxss/cell.wxss';
+@import '/assets/wxss/label.wxss';
+@import '/assets/wxss/picker.wxss';
+@import '/assets/wxss/btn-area.wxss';
+
+/* reset CSS */
+.weui-cell:before {
+  display: none;
+}
+
+.weui-cells:after {
+  /* display: none; */
+  bottom: 278rpx;
+  border-bottom: 2rpx solid rgba(0, 0, 0, 0.1);
+}

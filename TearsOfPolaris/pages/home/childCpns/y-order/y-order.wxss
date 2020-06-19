@@ -1,0 +1,58 @@
+/* pages/home/output/childCpns/y-order/y-order.wxss */
+@import '/assets/wxss/cell.wxss';
+
+.y-order {
+  padding: 30rpx 30rpx;
+}
+
+.y-order_bd {
+  border-radius: 24rpx;
+  border: 2rpx solid rgba(0, 0, 0, 0.2);
+}
+
+.y-order__hd {
+  padding: 16rpx 36rpx;
+}
+
+.y-order__hd .title {
+  font-size: 32rpx;
+  /* text-align: center; */
+  color: #333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center
+}
+
+.title_hover {
+  color: #69f;
+}
+
+.title_left {
+  display: flex;
+  align-items: center
+}
+
+.details image {
+  width: 32rpx;
+  height: 32rpx;
+  margin-right: 14rpx;
+}
+
+.next image {
+  width: 32rpx;
+  height: 32rpx;
+  margin: 0 30rpx;
+}
+
+.title .status {
+  color: #69f;
+}
+
+.y-order__bd {
+  padding: 16rpx 36rpx;
+}
+
+.y-order__bd .desc {
+  font-size: 28rpx;
+  color: rgba(0, 0, 0, 0.4)
+}

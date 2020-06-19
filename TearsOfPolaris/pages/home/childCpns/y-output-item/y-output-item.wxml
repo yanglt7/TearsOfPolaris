@@ -1,0 +1,7 @@
+<!--pages/home/output/childCpns/y-output-item/y-output-item.wxml-->
+<view class="y-output-item">
+  <view bindtap="itemClick" id="{{item.id}}" class="item_bd" hover-class="item-hover">
+    <image class="img" src="{{item.img}}" mode="widthFix" />
+    <view class="title">{{item.title}}</view>
+  </view> 
+</view>

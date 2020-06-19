@@ -1,0 +1,19 @@
+<!--pages/home/home.wxml-->
+<view class="page">
+  <view class="page__bd">
+    <!-- 1.搜索框 -->
+    <y-searchbar/>
+
+    <!-- 2.轮播图 -->
+    <y-swiper/>
+      
+    <!-- 3.tab-control -->
+    <y-tab-control titles="{{titles}}" bind:tabClick="tabClick" />
+
+    <!-- 4.展示tab-control数据: 基础数据 & 库存管理 -->
+    <y-main dataList="{{datas[currentType].list}}" bind:naviClick="naviClick" />
+
+    <!-- footer -->
+    <y-footer/>
+  </view>
+</view>

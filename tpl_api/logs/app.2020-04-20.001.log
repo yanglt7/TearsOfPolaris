@@ -1,0 +1,662 @@
+2020/04/19 10:01:03.701 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:01:04.423 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:01:04.423 [I] [msds.go:18]  msds/name: 
+2020/04/19 10:01:08.166 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:01:08.168 [D] [server.go:2807]  |      127.0.0.1|[42m 200 [0m|   4.0874117s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:01:30.978 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:01:30.985 [I] [msds.go:18]  msds/name: 
+2020/04/19 10:01:34.736 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:01:38.633 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:01:38.634 [I] [msds.go:18]  msds/name: 
+2020/04/19 10:01:41.338 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:01:41.341 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   3.0025037s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:02:23.640 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:02:26.376 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:02:26.377 [I] [msds.go:18]  msds/name: 
+2020/04/19 10:02:29.215 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:02:29.216 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   4.9019478s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:06:51.889 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:07:20.797 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:08:15.702 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:08:16.250 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:08:16.250 [I] [msds.go:18]  msds/name: 
+2020/04/19 10:08:17.432 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:08:17.435 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   1.5340045s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:10:31.647 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:11:17.371 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:11:18.586 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:11:18.587 [I] [msds.go:18]  msds/name: 
+2020/04/19 10:11:19.265 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:11:19.267 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   1.0625712s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:12:23.794 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:12:33.446 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:12:33.774 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:12:33.775 [I] [msds.go:18]  msds/name: <span class="glyphicon glyphicon-home" style="color:#888;" aria-hidden="true"></span>
+2020/04/19 10:12:34.337 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:12:34.338 [D] [server.go:2807]  |      127.0.0.1|[42m 200 [0m|    736.274ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:12:57.629 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:12:58.842 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:12:58.843 [I] [msds.go:18]  msds/name: <span class="f1">氨</span>
+2020/04/19 10:12:59.711 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:12:59.712 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    1.161411s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:13:01.065 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:13:06.604 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:13:06.605 [I] [msds.go:18]  msds/name: <span class="f1">氨</span>
+2020/04/19 10:13:07.362 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:13:07.363 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   947.7374ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:13:35.694 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:15:53.319 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:16:07.929 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:16:07.930 [I] [msds.go:18]  msds/name: 
+2020/04/19 10:16:08.720 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:16:08.721 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   1.0679642s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:16:11.798 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:16:16.687 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:16:16.692 [I] [msds.go:18]  msds/name: 
+2020/04/19 10:16:18.186 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:16:18.188 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   1.7656749s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:16:42.366 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:17:07.921 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:17:07.926 [I] [msds.go:18]  msds/name: [<span class="f1" ]
+2020/04/19 10:17:08.944 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:17:08.946 [I] [msds.go:18]  msds/name: [<span class="f1" ]
+2020/04/19 10:17:09.395 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:17:09.398 [D] [server.go:2807]  |            ::1|[42m 200 [0m|  24.9496367s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:17:10.638 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:17:10.639 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   5.9118451s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:17:34.323 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:17:36.930 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:17:36.932 [I] [msds.go:18]  msds/name: <span class="f1"> [<span class="f1" ]
+2020/04/19 10:17:39.722 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:17:39.723 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   2.9713766s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:18:37.201 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:18:37.475 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:18:37.476 [I] [msds.go:18]  msds/name: <span class="f1">氨</span></a><br>CAC:7664-41-7</li></ul></div><div id="paging">(1/1)<b>[1]</b></div> [<span class="f1" 氨</span </a <br CAC:7664-41-7</li </ul </div <div id="paging" (1/1)<b [1]</b </div ]
+2020/04/19 10:18:38.846 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:18:38.849 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   1.6110966s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:19:14.167 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:21:07.560 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:21:10.275 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:21:10.277 [I] [msds.go:18]  msds/name: [氨 /span]
+2020/04/19 10:21:12.356 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:21:12.358 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   2.2525609s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:21:23.200 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:21:23.202 [I] [msds.go:18]  msds/name: [氨 /span]
+2020/04/19 10:21:23.822 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:21:23.823 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   848.0603ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:21:29.368 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:21:31.411 [I] [msds.go:18]  msds/id: ulh77g
+2020/04/19 10:21:31.414 [I] [msds.go:18]  msds/name: 氨
+2020/04/19 10:21:32.535 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功
+2020/04/19 10:21:32.535 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   1.3916738s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 10:22:16.801 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:28:03.679 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:28:03.698 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:28:03.699 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:28:03.716 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:28:03.720 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    41.8957ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:33:35.836 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 10:33:37.960 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:33:37.994 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:33:37.995 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:33:38.040 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:33:38.044 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    84.9033ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:34:37.571 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:34:37.572 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:34:37.572 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:34:37.599 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:34:37.600 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    29.0996ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:35:26.274 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:35:26.292 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:35:26.293 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:35:26.296 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:35:26.297 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    22.9433ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:36:00.174 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:36:00.175 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:36:00.178 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:36:00.188 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:36:00.189 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    14.9615ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:36:34.745 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:36:34.773 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:36:34.774 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:36:34.775 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:36:34.776 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    30.6423ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:38:00.478 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:38:00.479 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:38:00.500 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:38:00.504 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:38:00.505 [D] [server.go:2807]  |            ::1|[42m 200 [0m|     27.306ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:38:45.171 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:38:45.187 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:38:45.187 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:38:45.189 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:38:45.202 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    30.9188ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:44:06.628 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:44:06.630 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:44:06.631 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:44:06.649 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:44:06.650 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    21.9964ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:45:06.594 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:45:06.595 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:45:06.595 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:45:06.597 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:45:06.608 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    13.9305ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:45:21.617 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:45:21.619 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:45:21.620 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:45:21.632 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:45:21.634 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    17.3906ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:45:28.431 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:45:28.432 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:45:28.433 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:45:28.442 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:45:28.456 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    25.3264ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:45:47.538 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:45:47.539 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:45:47.539 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:45:47.550 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:45:47.552 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    13.9641ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:45:55.229 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:45:55.230 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:45:55.231 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:45:55.241 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:45:55.244 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    14.9621ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:45:59.287 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:45:59.288 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:45:59.288 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:45:59.290 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:45:59.302 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    14.9215ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:46:18.104 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:46:18.122 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:46:18.123 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:46:18.123 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:46:18.124 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    19.9597ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:46:39.332 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:46:39.333 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:46:39.333 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:46:39.342 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:46:39.343 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    10.9736ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:46:50.402 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:46:50.403 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:46:50.403 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:46:50.420 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:46:50.420 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    18.0034ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:47:25.402 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:47:25.403 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:47:25.404 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:47:25.405 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:47:25.418 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    15.4796ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:47:47.169 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:47:47.183 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:47:47.184 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:47:47.185 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:47:47.185 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    15.9833ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:48:44.408 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:48:44.409 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:48:44.410 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:48:44.411 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:48:44.426 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    16.9839ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:49:27.549 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:49:27.550 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:49:27.551 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:49:27.565 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:49:27.566 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    17.9517ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:49:40.602 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:49:40.604 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:49:40.605 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:49:40.618 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:49:40.627 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    24.8921ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:49:59.395 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:49:59.401 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:49:59.401 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:49:59.403 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:49:59.404 [D] [server.go:2807]  |            ::1|[42m 200 [0m|     8.7506ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:51:12.234 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:51:12.235 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:51:12.236 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:51:12.253 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:51:12.255 [D] [server.go:2807]  |            ::1|[42m 200 [0m|     20.961ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 10:59:15.939 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 10:59:16.049 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 10:59:16.050 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 10:59:16.057 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 10:59:16.070 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   132.1651ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 11:00:38.993 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 11:00:38.994 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 11:00:38.995 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 11:00:39.006 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 11:00:39.006 [D] [server.go:2807]  |            ::1|[42m 200 [0m|     12.989ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 11:00:56.849 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 11:00:56.851 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 11:00:56.852 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 11:00:56.860 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 11:00:56.861 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    11.9163ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 11:01:00.531 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 11:01:00.532 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 11:01:00.533 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 11:01:00.542 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 11:01:00.544 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    12.9328ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 11:03:02.792 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 11:03:02.794 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 11:03:02.808 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 11:03:02.809 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 11:03:02.810 [D] [server.go:2807]  |            ::1|[42m 200 [0m|     19.989ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 11:04:57.778 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 11:06:38.737 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 11:09:06.051 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 11:13:08.626 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 11:13:08.708 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 11:13:08.710 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 11:13:08.833 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 11:13:08.837 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   210.4386ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 11:14:12.360 [I] [msds.go:25]  msds/id: ulh77g
+2020/04/19 11:14:12.362 [I] [msds.go:25]  msds/name: 氨
+2020/04/19 11:14:12.364 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功 ulh77g 氨
+2020/04/19 11:14:12.365 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   3.8605281s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 11:54:34.272 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 11:54:34.273 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 11:54:34.273 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 11:54:34.275 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 11:54:34.284 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    12.9646ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 11:54:39.430 [I] [msds.go:25]  msds/id: ulh77g
+2020/04/19 11:54:39.431 [I] [msds.go:25]  msds/name: 氨
+2020/04/19 11:54:39.431 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功 ulh77g 氨
+2020/04/19 11:54:39.431 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   372.2333ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 11:55:10.050 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 11:55:10.051 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 11:55:10.051 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 11:55:10.062 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 11:55:10.063 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    12.9655ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 11:55:13.395 [I] [msds.go:25]  msds/id: ulh77g
+2020/04/19 11:55:13.396 [I] [msds.go:25]  msds/name: 氨
+2020/04/19 11:55:13.400 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功 ulh77g 氨
+2020/04/19 11:55:13.403 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   182.7376ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 11:56:54.017 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 11:56:54.030 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 11:56:54.030 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 11:56:54.031 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 11:56:54.032 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    14.9852ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 11:57:20.558 [I] [msds.go:25]  msds/id: ulh77g
+2020/04/19 11:57:20.560 [I] [msds.go:25]  msds/name: 氨
+2020/04/19 11:57:20.564 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功 ulh77g 氨
+2020/04/19 11:57:20.565 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    1.638504s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 12:10:58.264 [I] [msds.go:25]  msds/id: kot0me
+2020/04/19 12:10:58.268 [I] [msds.go:25]  msds/name: 阿片
+2020/04/19 12:10:58.276 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功 kot0me 阿片
+2020/04/19 12:10:58.279 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   770.8582ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 12:29:09.106 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 12:36:03.251 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 12:40:13.370 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 12:40:52.148 [I] [msds.go:25]  msds/id: kot0me
+2020/04/19 12:40:52.149 [I] [msds.go:25]  msds/name: 阿片
+2020/04/19 12:40:52.411 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功 kot0me 阿片
+2020/04/19 12:40:52.411 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    506.021ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 12:41:43.072 [I] [msds.go:25]  msds/id: kot0me
+2020/04/19 12:41:43.074 [I] [msds.go:25]  msds/name: 阿片
+2020/04/19 12:41:43.176 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功 kot0me 阿片
+2020/04/19 12:41:43.177 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   252.3324ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 12:41:48.208 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 12:41:49.491 [I] [msds.go:25]  msds/id: kot0me
+2020/04/19 12:41:49.494 [I] [msds.go:25]  msds/name: 阿片
+2020/04/19 12:41:49.591 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功 kot0me 阿片
+2020/04/19 12:41:49.594 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   435.0703ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 12:43:05.686 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 12:43:16.445 [I] [msds.go:25]  msds/id: kot0me
+2020/04/19 12:43:16.447 [I] [msds.go:25]  msds/name: 阿片
+2020/04/19 12:43:17.201 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功 kot0me 阿片
+2020/04/19 12:43:17.202 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   3.8192518s|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 12:45:25.999 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 13:00:51.513 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:00:51.515 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:00:51.517 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:00:51.540 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:00:51.549 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    35.9047ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:01:03.147 [I] [msds.go:25]  msds/id: kot0me
+2020/04/19 13:01:03.149 [I] [msds.go:25]  msds/name: 阿片
+2020/04/19 13:01:03.156 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功 kot0me 阿片
+2020/04/19 13:01:03.159 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   864.6568ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 13:01:42.067 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:01:42.069 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:01:42.081 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:01:42.083 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:01:42.084 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    16.9564ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:01:45.874 [C] [panic.go:967]  the request url is  /msds
+2020/04/19 13:01:45.877 [C] [panic.go:967]  Handler crashed with error runtime error: index out of range [2] with length 1
+2020/04/19 13:01:45.884 [C] [panic.go:967]  c:/go/src/runtime/panic.go:967
+2020/04/19 13:01:45.887 [C] [panic.go:967]  c:/go/src/runtime/panic.go:88
+2020/04/19 13:01:45.890 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/tpl_api/controllers/querymsds.go:35
+2020/04/19 13:01:45.892 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/tpl_api/controllers/msds.go:25
+2020/04/19 13:01:45.929 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/github.com/astaxie/beego/router.go:833
+2020/04/19 13:01:45.937 [C] [panic.go:967]  c:/go/src/net/http/server.go:2807
+2020/04/19 13:01:45.940 [C] [panic.go:967]  c:/go/src/net/http/server.go:1895
+2020/04/19 13:01:45.942 [C] [panic.go:967]  c:/go/src/runtime/asm_amd64.s:1373
+2020/04/19 13:01:45.948 [server.go:3059]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2020/04/19 13:01:55.737 [I] [msds.go:25]  msds/id: kot0me
+2020/04/19 13:01:55.741 [I] [msds.go:25]  msds/name: 阿片
+2020/04/19 13:01:55.745 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功 kot0me 阿片
+2020/04/19 13:01:55.749 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   156.6325ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 13:02:21.520 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:02:21.533 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:02:21.534 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:02:21.535 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:02:21.536 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    16.9549ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:04:51.851 [I] [msds.go:25]  msds/id: kot0me
+2020/04/19 13:04:51.853 [I] [msds.go:25]  msds/name: 阿片
+2020/04/19 13:04:51.861 [I] [router.go:833]  apply/errCode&errMsg:  0 msds请求成功 kot0me 阿片
+2020/04/19 13:04:51.865 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   196.3134ms|   match|[44m GET     [0m /msds   r:/msds
+2020/04/19 13:05:41.654 [I] [asm_amd64.s:1373]  http server Running on http://:8080
+2020/04/19 13:06:04.762 [C] [panic.go:967]  the request url is  /msds
+2020/04/19 13:06:04.765 [C] [panic.go:967]  Handler crashed with error runtime error: index out of range [2] with length 1
+2020/04/19 13:06:04.771 [C] [panic.go:967]  c:/go/src/runtime/panic.go:967
+2020/04/19 13:06:04.777 [C] [panic.go:967]  c:/go/src/runtime/panic.go:88
+2020/04/19 13:06:04.779 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/tpl_api/controllers/querymsds.go:35
+2020/04/19 13:06:04.782 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/tpl_api/controllers/msds.go:25
+2020/04/19 13:06:04.813 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/github.com/astaxie/beego/router.go:833
+2020/04/19 13:06:04.815 [C] [panic.go:967]  c:/go/src/net/http/server.go:2807
+2020/04/19 13:06:04.848 [C] [panic.go:967]  c:/go/src/net/http/server.go:1895
+2020/04/19 13:06:04.893 [C] [panic.go:967]  c:/go/src/runtime/asm_amd64.s:1373
+2020/04/19 13:06:04.902 [server.go:3059]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2020/04/19 13:10:05.969 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:10:05.970 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:10:05.971 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:10:05.990 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:10:05.991 [D] [server.go:2807]  |            ::1|[42m 200 [0m|     21.905ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:10:11.092 [C] [panic.go:967]  the request url is  /msds
+2020/04/19 13:10:11.095 [C] [panic.go:967]  Handler crashed with error runtime error: index out of range [2] with length 1
+2020/04/19 13:10:11.100 [C] [panic.go:967]  c:/go/src/runtime/panic.go:967
+2020/04/19 13:10:11.104 [C] [panic.go:967]  c:/go/src/runtime/panic.go:88
+2020/04/19 13:10:11.106 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/tpl_api/controllers/querymsds.go:35
+2020/04/19 13:10:11.109 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/tpl_api/controllers/msds.go:25
+2020/04/19 13:10:11.112 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/github.com/astaxie/beego/router.go:833
+2020/04/19 13:10:11.151 [C] [panic.go:967]  c:/go/src/net/http/server.go:2807
+2020/04/19 13:10:11.153 [C] [panic.go:967]  c:/go/src/net/http/server.go:1895
+2020/04/19 13:10:11.156 [C] [panic.go:967]  c:/go/src/runtime/asm_amd64.s:1373
+2020/04/19 13:10:11.160 [server.go:3059]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2020/04/19 13:10:17.343 [C] [panic.go:967]  the request url is  /msds
+2020/04/19 13:10:17.345 [C] [panic.go:967]  Handler crashed with error runtime error: index out of range [2] with length 1
+2020/04/19 13:10:17.350 [C] [panic.go:967]  c:/go/src/runtime/panic.go:967
+2020/04/19 13:10:17.352 [C] [panic.go:967]  c:/go/src/runtime/panic.go:88
+2020/04/19 13:10:17.354 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/tpl_api/controllers/querymsds.go:35
+2020/04/19 13:10:17.356 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/tpl_api/controllers/msds.go:25
+2020/04/19 13:10:17.359 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/github.com/astaxie/beego/router.go:833
+2020/04/19 13:10:17.385 [C] [panic.go:967]  c:/go/src/net/http/server.go:2807
+2020/04/19 13:10:17.387 [C] [panic.go:967]  c:/go/src/net/http/server.go:1895
+2020/04/19 13:10:17.389 [C] [panic.go:967]  c:/go/src/runtime/asm_amd64.s:1373
+2020/04/19 13:10:17.392 [server.go:3059]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2020/04/19 13:10:46.633 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:10:46.634 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:10:46.634 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:10:46.647 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:10:46.648 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    14.9637ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:11:58.452 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:11:58.462 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:11:58.465 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:11:58.466 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:11:58.467 [D] [server.go:2807]  |            ::1|[42m 200 [0m|     14.814ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:12:03.164 [C] [panic.go:967]  the request url is  /msds
+2020/04/19 13:12:03.166 [C] [panic.go:967]  Handler crashed with error runtime error: index out of range [2] with length 1
+2020/04/19 13:12:03.170 [C] [panic.go:967]  c:/go/src/runtime/panic.go:967
+2020/04/19 13:12:03.172 [C] [panic.go:967]  c:/go/src/runtime/panic.go:88
+2020/04/19 13:12:03.173 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/tpl_api/controllers/querymsds.go:35
+2020/04/19 13:12:03.175 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/tpl_api/controllers/msds.go:25
+2020/04/19 13:12:03.176 [C] [panic.go:967]  C:/Users/杨杰/Desktop/yanglt/golang/src/github.com/astaxie/beego/router.go:833
+2020/04/19 13:12:03.177 [C] [panic.go:967]  c:/go/src/net/http/server.go:2807
+2020/04/19 13:12:03.179 [C] [panic.go:967]  c:/go/src/net/http/server.go:1895
+2020/04/19 13:12:03.179 [C] [panic.go:967]  c:/go/src/runtime/asm_amd64.s:1373
+2020/04/19 13:12:03.182 [server.go:3059]  [HTTP] http: superfluous response.WriteHeader call from github.com/astaxie/beego/context.(*Response).WriteHeader (context.go:230)
+2020/04/19 13:12:20.049 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:12:20.052 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:12:20.061 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:12:20.062 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:12:20.063 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    13.9651ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:12:44.523 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:12:44.524 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:12:44.525 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:12:44.539 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:12:44.541 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    17.9543ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:17:30.653 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:17:30.654 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:17:30.654 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:17:30.656 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:17:30.668 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    15.0224ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:18:34.332 [I] [router.go:835]  apply/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:18:34.345 [I] [router.go:835]  apply/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:18:34.348 [I] [router.go:835]  apply:  {oPFKq5e8233gXjRjdL4OdPCfR99s 7351400010689 杨利婷 16327114 丰盛堂A座1楼101 2020-04-19 教学 211609 7664-41-7 化学纯 100ML 808}
+2020/04/19 13:18:34.403 [I] [router.go:835]  将apply存入数据库中成功, id =  1
+2020/04/19 13:18:34.415 [I] [router.go:835]  apply/errCode&errMsg:  0 apply请求成功
+2020/04/19 13:18:34.421 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    89.2406ms|   match|[46m POST    [0m /apply   r:/apply
+2020/04/19 13:36:46.280 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:36:46.554 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:36:46.643 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:36:46.643 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:36:46.659 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   379.3365ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:37:15.489 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:37:15.500 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:37:15.502 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:37:15.503 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:37:15.504 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    13.9608ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:39:32.817 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:39:32.834 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:39:32.834 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:39:32.837 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:39:32.837 [D] [server.go:2807]  |            ::1|[42m 200 [0m|     19.947ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:47:16.563 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:47:16.565 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:47:16.566 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:47:16.582 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:47:16.583 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    20.0387ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:48:51.161 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:48:51.162 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:48:51.174 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:48:51.176 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:48:51.177 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    15.9592ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:49:29.663 [I] [router.go:835]  input/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:49:29.689 [I] [router.go:835]  input/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:49:29.690 [I] [router.go:835]  input:  {oPFKq5e8233gXjRjdL4OdPCfR99s 7536900015680 yanglt 16327114 丰盛堂A座1楼101 教学 211609 8008-60-4 化学纯 100ML 200 hope hope 84115662}
+2020/04/19 13:49:29.710 [I] [router.go:835]  将input存入数据库中成功, id =  1
+2020/04/19 13:49:29.716 [I] [router.go:835]  input/errCode&errMsg:  0 input请求成功
+2020/04/19 13:49:29.717 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    53.5787ms|   match|[46m POST    [0m /input   r:/input
+2020/04/19 13:57:34.322 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:57:34.323 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:57:34.323 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:57:34.325 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:57:34.342 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    19.9487ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:58:01.794 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:58:01.795 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:58:01.796 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:58:01.805 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:58:01.807 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    12.5837ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:58:32.981 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:58:32.995 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:58:32.997 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:58:32.997 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:58:32.998 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    16.9549ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 13:58:56.748 [I] [router.go:835]  apply/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:58:56.800 [I] [router.go:835]  apply/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:58:56.803 [I] [router.go:835]  apply:  {oPFKq5e8233gXjRjdL4OdPCfR99s 7593600012938 yanglt 16327114 丰盛堂A座1楼101 2020-04-19 教学 10086 8008-60-4 化学纯 100ML 90}
+2020/04/19 13:58:56.820 [I] [router.go:835]  将apply存入数据库中成功, id =  1
+2020/04/19 13:58:56.874 [I] [router.go:835]  apply/errCode&errMsg:  0 apply请求成功
+2020/04/19 13:58:56.909 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   160.7525ms|   match|[46m POST    [0m /apply   r:/apply
+2020/04/19 13:59:33.292 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 13:59:33.293 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 13:59:33.293 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 13:59:33.294 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 13:59:33.308 [D] [server.go:2807]  |            ::1|[42m 200 [0m|     15.958ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:00:05.451 [I] [router.go:835]  input/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:00:05.460 [I] [router.go:835]  input/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:00:05.463 [I] [router.go:835]  input:  {oPFKq5e8233gXjRjdL4OdPCfR99s 7600500019973 yanglt 16327114 丰盛堂A座1楼101 教学 10086 8008-60-4 化学纯 100ML 99 hope hope 84115662}
+2020/04/19 14:00:05.470 [I] [router.go:835]  将input存入数据库中成功, id =  1
+2020/04/19 14:00:05.471 [I] [router.go:835]  input/errCode&errMsg:  0 input请求成功
+2020/04/19 14:00:05.495 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    44.1997ms|   match|[46m POST    [0m /input   r:/input
+2020/04/19 14:03:10.860 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:03:10.871 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:03:10.874 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:03:10.875 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 14:03:10.876 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    16.0809ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:04:31.131 [I] [router.go:835]  note/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:04:31.140 [I] [router.go:835]  note/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:04:31.142 [I] [router.go:835]  note:  {oPFKq5e8233gXjRjdL4OdPCfR99s 7593600012938 8008-60-4 }
+2020/04/19 14:04:31.144 [I] [note.go:37]  UpdateNote:  update apply set note="" where order_id="7593600012938" and openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:04:31.160 [I] [router.go:835]  更新note成功, id =  1
+2020/04/19 14:04:31.173 [I] [router.go:835]  note/errCode&errMsg:  0 note请求成功
+2020/04/19 14:04:31.174 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    43.4476ms|   match|[46m POST    [0m /note   r:/note
+2020/04/19 14:09:21.193 [I] [router.go:835]  note/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:09:21.205 [I] [router.go:835]  note/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:09:21.207 [I] [router.go:835]  note:  {oPFKq5e8233gXjRjdL4OdPCfR99s 7593600012938 8008-60-4 阿片}
+2020/04/19 14:09:21.210 [I] [note.go:37]  UpdateNote:  update apply set note="阿片" where order_id="7593600012938" and openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:09:21.219 [I] [router.go:835]  更新note成功, id =  1
+2020/04/19 14:09:21.246 [I] [router.go:835]  note/errCode&errMsg:  0 note请求成功
+2020/04/19 14:09:21.248 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    55.9326ms|   match|[46m POST    [0m /note   r:/note
+2020/04/19 14:09:27.957 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:09:27.978 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:09:27.979 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:09:27.982 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 14:09:28.004 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    46.8752ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:09:45.672 [I] [router.go:835]  note/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:09:45.683 [I] [router.go:835]  note/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:09:45.684 [I] [router.go:835]  note:  {oPFKq5e8233gXjRjdL4OdPCfR99s 7593600012938 8008-60-4 }
+2020/04/19 14:09:45.686 [I] [note.go:37]  UpdateNote:  update apply set note="" where order_id="7593600012938" and openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:09:45.697 [I] [router.go:835]  更新note成功, id =  1
+2020/04/19 14:09:45.710 [I] [router.go:835]  note/errCode&errMsg:  0 note请求成功
+2020/04/19 14:09:45.727 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    55.3927ms|   match|[46m POST    [0m /note   r:/note
+2020/04/19 14:10:39.463 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:10:39.464 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:10:39.465 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:10:39.477 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 14:10:39.478 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    15.9576ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:10:47.461 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:10:47.462 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:10:47.462 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:10:47.463 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 14:10:47.471 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    10.0336ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:12:52.649 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:12:52.660 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:12:52.661 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:12:52.662 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 14:12:52.663 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    13.9349ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:13:03.021 [I] [router.go:833]  order/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:13:03.027 [I] [router.go:833]  order/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:13:03.029 [I] [order.go:37]  OrderQueryInput:  select order_id, addr, input_use, check_id, check_flag, cas, purity, specs, input_count,create_time from input where openid="oPFKq5e8233gXjRjdL4OdPCfR99s" order by create_time DESC
+2020/04/19 14:13:03.035 [I] [router.go:833]  orderqueryinput:  [{7600500019973 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 99 2020-04-19 14:00:05} {7536900015680 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 200 2020-04-19 13:49:29} {7184900015993 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 1000 2020-04-12 14:10:49} {5938300018034 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 1000 2020-04-07 19:36:24} {5172400010581 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 4000 2020-04-07 17:28:44} {5125200011404 丰盛堂A座1楼101 教学 661810 0 8008-60-4 化学纯 100ML 3000 2020-04-07 17:20:52} {5048500015536 丰盛堂A座1楼101 教学 1008611 0 8008-60-4 化学纯 100ML 2000 2020-04-07 17:08:06} {431870009055 丰盛堂A座1楼101 教学 211609 1 8008-60-4 化学纯 100ML 1000 2020-04-07 15:06:27}]
+2020/04/19 14:13:03.064 [I] [order.go:40]  OrderQueryApply:  select order_id, addr, apply_use, check_id, check_flag, cas, purity, specs, apply_count, apply_time, create_time from apply where openid="oPFKq5e8233gXjRjdL4OdPCfR99s" order by create_time DESC
+2020/04/19 14:13:03.081 [I] [router.go:833]  orderqueryapply:  [{7593600012938 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 90 2020-04-19 2020-04-19 13:58:56} {7351400010689 丰盛堂A座1楼101 教学 211609 0 7664-41-7 化学纯 100ML 808 2020-04-19 2020-04-19 13:18:34} {7196100011123 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 299 2020-04-12 2020-04-12 14:12:41} {7554800014508 丰盛堂A座1楼101 教学 1008611 0 8008-60-4 化学纯 100ML 209 2020-04-08 2020-04-08 00:05:48} {6054500018582 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 320 2020-04-07 2020-04-07 19:55:45} {6040500014525 丰盛堂A座1楼101 教学 211609 1 8008-60-4 化学纯 100ML 490 2020-04-07 2020-04-07 19:53:25}]
+2020/04/19 14:13:03.114 [I] [router.go:833]  order/errCode&errMsg:  0 order请求成功 [{7600500019973 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 99 2020-04-19 14:00:05} {7536900015680 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 200 2020-04-19 13:49:29} {7184900015993 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 1000 2020-04-12 14:10:49} {5938300018034 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 1000 2020-04-07 19:36:24} {5172400010581 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 4000 2020-04-07 17:28:44} {5125200011404 丰盛堂A座1楼101 教学 661810 0 8008-60-4 化学纯 100ML 3000 2020-04-07 17:20:52} {5048500015536 丰盛堂A座1楼101 教学 1008611 0 8008-60-4 化学纯 100ML 2000 2020-04-07 17:08:06} {431870009055 丰盛堂A座1楼101 教学 211609 1 8008-60-4 化学纯 100ML 1000 2020-04-07 15:06:27}] [{7593600012938 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 90 2020-04-19 2020-04-19 13:58:56} {7351400010689 丰盛堂A座1楼101 教学 211609 0 7664-41-7 化学纯 100ML 808 2020-04-19 2020-04-19 13:18:34} {7196100011123 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 299 2020-04-12 2020-04-12 14:12:41} {7554800014508 丰盛堂A座1楼101 教学 1008611 0 8008-60-4 化学纯 100ML 209 2020-04-08 2020-04-08 00:05:48} {6054500018582 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 320 2020-04-07 2020-04-07 19:55:45} {6040500014525 丰盛堂A座1楼101 教学 211609 1 8008-60-4 化学纯 100ML 490 2020-04-07 2020-04-07 19:53:25}]
+2020/04/19 14:13:03.131 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   109.7971ms|   match|[44m GET     [0m /order   r:/order
+2020/04/19 14:13:11.449 [I] [router.go:833]  order/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:13:11.455 [I] [router.go:833]  order/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:13:11.457 [I] [order.go:37]  OrderQueryInput:  select order_id, addr, input_use, check_id, check_flag, cas, purity, specs, input_count,create_time from input where openid="oPFKq5e8233gXjRjdL4OdPCfR99s" order by create_time DESC
+2020/04/19 14:13:11.460 [I] [router.go:833]  orderqueryinput:  [{7600500019973 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 99 2020-04-19 14:00:05} {7536900015680 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 200 2020-04-19 13:49:29} {7184900015993 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 1000 2020-04-12 14:10:49} {5938300018034 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 1000 2020-04-07 19:36:24} {5172400010581 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 4000 2020-04-07 17:28:44} {5125200011404 丰盛堂A座1楼101 教学 661810 0 8008-60-4 化学纯 100ML 3000 2020-04-07 17:20:52} {5048500015536 丰盛堂A座1楼101 教学 1008611 0 8008-60-4 化学纯 100ML 2000 2020-04-07 17:08:06} {431870009055 丰盛堂A座1楼101 教学 211609 1 8008-60-4 化学纯 100ML 1000 2020-04-07 15:06:27}]
+2020/04/19 14:13:11.496 [I] [order.go:40]  OrderQueryApply:  select order_id, addr, apply_use, check_id, check_flag, cas, purity, specs, apply_count, apply_time, create_time from apply where openid="oPFKq5e8233gXjRjdL4OdPCfR99s" order by create_time DESC
+2020/04/19 14:13:11.499 [I] [router.go:833]  orderqueryapply:  [{7593600012938 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 90 2020-04-19 2020-04-19 13:58:56} {7351400010689 丰盛堂A座1楼101 教学 211609 0 7664-41-7 化学纯 100ML 808 2020-04-19 2020-04-19 13:18:34} {7196100011123 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 299 2020-04-12 2020-04-12 14:12:41} {7554800014508 丰盛堂A座1楼101 教学 1008611 0 8008-60-4 化学纯 100ML 209 2020-04-08 2020-04-08 00:05:48} {6054500018582 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 320 2020-04-07 2020-04-07 19:55:45} {6040500014525 丰盛堂A座1楼101 教学 211609 1 8008-60-4 化学纯 100ML 490 2020-04-07 2020-04-07 19:53:25}]
+2020/04/19 14:13:11.504 [I] [router.go:833]  order/errCode&errMsg:  0 order请求成功 [{7600500019973 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 99 2020-04-19 14:00:05} {7536900015680 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 200 2020-04-19 13:49:29} {7184900015993 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 1000 2020-04-12 14:10:49} {5938300018034 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 1000 2020-04-07 19:36:24} {5172400010581 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 4000 2020-04-07 17:28:44} {5125200011404 丰盛堂A座1楼101 教学 661810 0 8008-60-4 化学纯 100ML 3000 2020-04-07 17:20:52} {5048500015536 丰盛堂A座1楼101 教学 1008611 0 8008-60-4 化学纯 100ML 2000 2020-04-07 17:08:06} {431870009055 丰盛堂A座1楼101 教学 211609 1 8008-60-4 化学纯 100ML 1000 2020-04-07 15:06:27}] [{7593600012938 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 90 2020-04-19 2020-04-19 13:58:56} {7351400010689 丰盛堂A座1楼101 教学 211609 0 7664-41-7 化学纯 100ML 808 2020-04-19 2020-04-19 13:18:34} {7196100011123 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 299 2020-04-12 2020-04-12 14:12:41} {7554800014508 丰盛堂A座1楼101 教学 1008611 0 8008-60-4 化学纯 100ML 209 2020-04-08 2020-04-08 00:05:48} {6054500018582 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 320 2020-04-07 2020-04-07 19:55:45} {6040500014525 丰盛堂A座1楼101 教学 211609 1 8008-60-4 化学纯 100ML 490 2020-04-07 2020-04-07 19:53:25}]
+2020/04/19 14:13:11.513 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    63.5042ms|   match|[44m GET     [0m /order   r:/order
+2020/04/19 14:13:15.390 [I] [router.go:833]  order/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:13:15.399 [I] [router.go:833]  order/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:13:15.402 [I] [order.go:37]  OrderQueryInput:  select order_id, addr, input_use, check_id, check_flag, cas, purity, specs, input_count,create_time from input where openid="oPFKq5e8233gXjRjdL4OdPCfR99s" order by create_time DESC
+2020/04/19 14:13:15.407 [I] [router.go:833]  orderqueryinput:  [{7600500019973 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 99 2020-04-19 14:00:05} {7536900015680 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 200 2020-04-19 13:49:29} {7184900015993 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 1000 2020-04-12 14:10:49} {5938300018034 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 1000 2020-04-07 19:36:24} {5172400010581 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 4000 2020-04-07 17:28:44} {5125200011404 丰盛堂A座1楼101 教学 661810 0 8008-60-4 化学纯 100ML 3000 2020-04-07 17:20:52} {5048500015536 丰盛堂A座1楼101 教学 1008611 0 8008-60-4 化学纯 100ML 2000 2020-04-07 17:08:06} {431870009055 丰盛堂A座1楼101 教学 211609 1 8008-60-4 化学纯 100ML 1000 2020-04-07 15:06:27}]
+2020/04/19 14:13:15.437 [I] [order.go:40]  OrderQueryApply:  select order_id, addr, apply_use, check_id, check_flag, cas, purity, specs, apply_count, apply_time, create_time from apply where openid="oPFKq5e8233gXjRjdL4OdPCfR99s" order by create_time DESC
+2020/04/19 14:13:15.471 [I] [router.go:833]  orderqueryapply:  [{7593600012938 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 90 2020-04-19 2020-04-19 13:58:56} {7351400010689 丰盛堂A座1楼101 教学 211609 0 7664-41-7 化学纯 100ML 808 2020-04-19 2020-04-19 13:18:34} {7196100011123 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 299 2020-04-12 2020-04-12 14:12:41} {7554800014508 丰盛堂A座1楼101 教学 1008611 0 8008-60-4 化学纯 100ML 209 2020-04-08 2020-04-08 00:05:48} {6054500018582 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 320 2020-04-07 2020-04-07 19:55:45} {6040500014525 丰盛堂A座1楼101 教学 211609 1 8008-60-4 化学纯 100ML 490 2020-04-07 2020-04-07 19:53:25}]
+2020/04/19 14:13:15.510 [I] [router.go:833]  order/errCode&errMsg:  0 order请求成功 [{7600500019973 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 99 2020-04-19 14:00:05} {7536900015680 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 200 2020-04-19 13:49:29} {7184900015993 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 1000 2020-04-12 14:10:49} {5938300018034 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 1000 2020-04-07 19:36:24} {5172400010581 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 4000 2020-04-07 17:28:44} {5125200011404 丰盛堂A座1楼101 教学 661810 0 8008-60-4 化学纯 100ML 3000 2020-04-07 17:20:52} {5048500015536 丰盛堂A座1楼101 教学 1008611 0 8008-60-4 化学纯 100ML 2000 2020-04-07 17:08:06} {431870009055 丰盛堂A座1楼101 教学 211609 1 8008-60-4 化学纯 100ML 1000 2020-04-07 15:06:27}] [{7593600012938 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 90 2020-04-19 2020-04-19 13:58:56} {7351400010689 丰盛堂A座1楼101 教学 211609 0 7664-41-7 化学纯 100ML 808 2020-04-19 2020-04-19 13:18:34} {7196100011123 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 299 2020-04-12 2020-04-12 14:12:41} {7554800014508 丰盛堂A座1楼101 教学 1008611 0 8008-60-4 化学纯 100ML 209 2020-04-08 2020-04-08 00:05:48} {6054500018582 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 320 2020-04-07 2020-04-07 19:55:45} {6040500014525 丰盛堂A座1楼101 教学 211609 1 8008-60-4 化学纯 100ML 490 2020-04-07 2020-04-07 19:53:25}]
+2020/04/19 14:13:15.571 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   180.5139ms|   match|[44m GET     [0m /order   r:/order
+2020/04/19 14:13:19.554 [I] [router.go:833]  order/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:13:19.561 [I] [router.go:833]  order/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:13:19.564 [I] [order.go:37]  OrderQueryInput:  select order_id, addr, input_use, check_id, check_flag, cas, purity, specs, input_count,create_time from input where openid="oPFKq5e8233gXjRjdL4OdPCfR99s" order by create_time DESC
+2020/04/19 14:13:19.567 [I] [router.go:833]  orderqueryinput:  [{7600500019973 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 99 2020-04-19 14:00:05} {7536900015680 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 200 2020-04-19 13:49:29} {7184900015993 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 1000 2020-04-12 14:10:49} {5938300018034 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 1000 2020-04-07 19:36:24} {5172400010581 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 4000 2020-04-07 17:28:44} {5125200011404 丰盛堂A座1楼101 教学 661810 0 8008-60-4 化学纯 100ML 3000 2020-04-07 17:20:52} {5048500015536 丰盛堂A座1楼101 教学 1008611 0 8008-60-4 化学纯 100ML 2000 2020-04-07 17:08:06} {431870009055 丰盛堂A座1楼101 教学 211609 1 8008-60-4 化学纯 100ML 1000 2020-04-07 15:06:27}]
+2020/04/19 14:13:19.571 [I] [order.go:40]  OrderQueryApply:  select order_id, addr, apply_use, check_id, check_flag, cas, purity, specs, apply_count, apply_time, create_time from apply where openid="oPFKq5e8233gXjRjdL4OdPCfR99s" order by create_time DESC
+2020/04/19 14:13:19.574 [I] [router.go:833]  orderqueryapply:  [{7593600012938 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 90 2020-04-19 2020-04-19 13:58:56} {7351400010689 丰盛堂A座1楼101 教学 211609 0 7664-41-7 化学纯 100ML 808 2020-04-19 2020-04-19 13:18:34} {7196100011123 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 299 2020-04-12 2020-04-12 14:12:41} {7554800014508 丰盛堂A座1楼101 教学 1008611 0 8008-60-4 化学纯 100ML 209 2020-04-08 2020-04-08 00:05:48} {6054500018582 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 320 2020-04-07 2020-04-07 19:55:45} {6040500014525 丰盛堂A座1楼101 教学 211609 1 8008-60-4 化学纯 100ML 490 2020-04-07 2020-04-07 19:53:25}]
+2020/04/19 14:13:19.591 [I] [router.go:833]  order/errCode&errMsg:  0 order请求成功 [{7600500019973 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 99 2020-04-19 14:00:05} {7536900015680 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 200 2020-04-19 13:49:29} {7184900015993 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 1000 2020-04-12 14:10:49} {5938300018034 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 1000 2020-04-07 19:36:24} {5172400010581 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 4000 2020-04-07 17:28:44} {5125200011404 丰盛堂A座1楼101 教学 661810 0 8008-60-4 化学纯 100ML 3000 2020-04-07 17:20:52} {5048500015536 丰盛堂A座1楼101 教学 1008611 0 8008-60-4 化学纯 100ML 2000 2020-04-07 17:08:06} {431870009055 丰盛堂A座1楼101 教学 211609 1 8008-60-4 化学纯 100ML 1000 2020-04-07 15:06:27}] [{7593600012938 丰盛堂A座1楼101 教学 10086 0 8008-60-4 化学纯 100ML 90 2020-04-19 2020-04-19 13:58:56} {7351400010689 丰盛堂A座1楼101 教学 211609 0 7664-41-7 化学纯 100ML 808 2020-04-19 2020-04-19 13:18:34} {7196100011123 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 299 2020-04-12 2020-04-12 14:12:41} {7554800014508 丰盛堂A座1楼101 教学 1008611 0 8008-60-4 化学纯 100ML 209 2020-04-08 2020-04-08 00:05:48} {6054500018582 丰盛堂A座1楼101 教学 211609 0 8008-60-4 化学纯 100ML 320 2020-04-07 2020-04-07 19:55:45} {6040500014525 丰盛堂A座1楼101 教学 211609 1 8008-60-4 化学纯 100ML 490 2020-04-07 2020-04-07 19:53:25}]
+2020/04/19 14:13:19.672 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    117.942ms|   match|[44m GET     [0m /order   r:/order
+2020/04/19 14:15:06.287 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:15:06.288 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:15:06.289 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:15:06.298 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 14:15:06.300 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    13.4374ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:15:42.514 [I] [router.go:835]  reInput/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:15:42.537 [I] [router.go:835]  reInput/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:15:42.538 [I] [reInput.go:35]  UpdateReInput:  update apply set reinput_id="7694200018391", reinput_count="222", reinput_time="2020-04-19" where order_id="7593600012938" and openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:15:42.551 [I] [router.go:835]  更新reInput成功, id =  1
+2020/04/19 14:15:42.577 [I] [router.go:835]  reInput/errCode&errMsg:  0 reInput请求成功
+2020/04/19 14:15:42.579 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    65.5316ms|   match|[46m POST    [0m /reinput   r:/reinput
+2020/04/19 14:16:22.827 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:16:22.841 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:16:22.842 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:16:22.843 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 14:16:22.843 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    16.4518ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:16:30.528 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:16:30.530 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:16:30.545 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:16:30.547 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 14:16:30.548 [D] [server.go:2807]  |            ::1|[42m 200 [0m|     20.544ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:16:42.059 [I] [router.go:835]  reInput/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:16:42.071 [I] [router.go:835]  reInput/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:16:42.073 [I] [reInput.go:35]  UpdateReInput:  update apply set reinput_id="7700100019186", reinput_count="222", reinput_time="2020-04-19" where order_id="7593600012938" and openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:16:42.080 [I] [router.go:835]  更新reInput成功, id =  1
+2020/04/19 14:16:42.108 [I] [router.go:835]  reInput/errCode&errMsg:  0 reInput请求成功
+2020/04/19 14:16:42.136 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    77.1848ms|   match|[46m POST    [0m /reinput   r:/reinput
+2020/04/19 14:18:26.477 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:18:26.490 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:18:26.491 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:18:26.492 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 14:18:26.493 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    15.9578ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:19:52.264 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:19:52.276 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:19:52.277 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:19:52.278 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 14:19:52.289 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    25.2995ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:20:05.494 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:20:05.500 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:20:05.502 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:20:05.505 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 14:20:05.506 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    12.1327ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:20:16.981 [I] [router.go:833]  storage/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:20:17.022 [I] [router.go:833]  storage/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:20:17.078 [I] [router.go:833]  storage:  {oPFKq5e8233gXjRjdL4OdPCfR99s 8008-60-4 化学纯 100ML}
+2020/04/19 14:20:17.085 [I] [storage.go:43]  StorageQueryInput:  select sum(input_count),check_id,addr from input where cas="8008-60-4" and purity="化学纯" and specs="100ML" group by check_id
+2020/04/19 14:20:17.101 [I] [router.go:833]  storagequeryinput:  [{5099 10086 丰盛堂A座1楼101 0 0} {2000 1008611 丰盛堂A座1楼101 0 0} {2200 211609 丰盛堂A座1楼101 0 0} {3000 661810 丰盛堂A座1楼101 0 0}]
+2020/04/19 14:20:17.153 [I] [storage.go:46]  StorageQueryApply:  select sum(apply_count),sum(reinput_count),check_id from apply where cas="8008-60-4" and purity="化学纯" and specs="100ML" group by check_id
+2020/04/19 14:20:17.184 [I] [router.go:833]  queryapply:  [{10086 90 222} {1008611 209 33} {211609 1109 34}]
+2020/04/19 14:20:17.227 [I] [router.go:833]  storage/errCode&errMsg:  0 storage请求成功 [{5099 10086 丰盛堂A座1楼101 90 222} {2000 1008611 丰盛堂A座1楼101 209 33} {2200 211609 丰盛堂A座1楼101 1109 34} {3000 661810 丰盛堂A座1楼101 0 0}]
+2020/04/19 14:20:17.232 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   250.8699ms|   match|[44m GET     [0m /storage   r:/storage
+2020/04/19 14:24:13.716 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:24:13.730 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:24:13.731 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:24:13.733 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 14:24:13.734 [D] [server.go:2807]  |            ::1|[42m 200 [0m|    17.9515ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:24:23.172 [I] [router.go:835]  sendUserInfo/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:24:23.184 [I] [router.go:835]  sendUserInfo/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:24:23.223 [I] [sendUserInfo.go:36]  UpdateUser2:  update users set user_name="",identity="校内学生",user_id="123456",email="" where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:24:23.233 [I] [router.go:835]  更新user_name, identity, user_id, email成功, id =  1
+2020/04/19 14:24:23.298 [I] [router.go:835]  sendUserInfo:  { 校内学生 123456  oPFKq5e8233gXjRjdL4OdPCfR99s}
+2020/04/19 14:24:23.327 [D] [server.go:2807]  |            ::1|[42m 200 [0m|   155.0955ms|   match|[46m POST    [0m /senduserinfo   r:/senduserinfo
+2020/04/19 14:25:30.025 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:25:30.026 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:25:30.027 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:25:30.029 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 14:25:30.030 [D] [server.go:2807]  |            ::1|[42m 200 [0m|     5.9476ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:25:40.098 [I] [router.go:835]  sendUserInfo/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:25:40.101 [I] [router.go:835]  sendUserInfo/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:25:40.102 [I] [sendUserInfo.go:36]  UpdateUser2:  update users set user_name="",identity="校内学生",user_id="123456",email="" where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:25:40.104 [I] [router.go:835]  更新user_name, identity, user_id, email成功, id =  0
+2020/04/19 14:25:40.105 [I] [router.go:835]  sendUserInfo:  { 校内学生 123456  oPFKq5e8233gXjRjdL4OdPCfR99s}
+2020/04/19 14:25:40.106 [D] [server.go:2807]  |            ::1|[42m 200 [0m|     8.0716ms|   match|[46m POST    [0m /senduserinfo   r:/senduserinfo
+2020/04/19 14:28:20.753 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:28:20.757 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:28:20.758 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:28:20.760 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 14:28:20.761 [D] [server.go:2807]  |            ::1|[42m 200 [0m|     7.9715ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:28:27.432 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:28:27.434 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:28:27.434 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:28:27.435 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 14:28:27.435 [D] [server.go:2807]  |            ::1|[42m 200 [0m|     2.9161ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:32:16.839 [I] [router.go:835]  auth/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:32:16.841 [I] [router.go:835]  auth/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:32:16.841 [I] [auth.go:28]  QueryUserId:  select id from users where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:32:16.842 [I] [router.go:835]  auth/errCode&errMsg:  0 auth请求成功
+2020/04/19 14:32:16.843 [D] [server.go:2807]  |            ::1|[42m 200 [0m|     3.9902ms|   match|[46m POST    [0m /auth   r:/auth
+2020/04/19 14:32:23.799 [I] [router.go:835]  sendUserInfo/token:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODY5MzU1MTQsIm9wZW5pZCI6Im9QRktxNWU4MjMzZ1hqUmpkTDRPZFBDZlI5OXMifQ.7cQzkWlTUdLxeHS-R02kbbQwre6EHw6FXpaTqQ16ll0
+2020/04/19 14:32:23.803 [I] [router.go:835]  sendUserInfo/openid:  oPFKq5e8233gXjRjdL4OdPCfR99s
+2020/04/19 14:32:23.804 [I] [sendUserInfo.go:36]  UpdateUser2:  update users set user_name="",identity="校内学生",user_id="123456",email="" where openid="oPFKq5e8233gXjRjdL4OdPCfR99s"
+2020/04/19 14:32:23.807 [I] [router.go:835]  更新user_name, identity, user_id, email成功, id =  0
+2020/04/19 14:32:23.809 [I] [router.go:835]  sendUserInfo:  { 校内学生 123456  oPFKq5e8233gXjRjdL4OdPCfR99s}
+2020/04/19 14:32:23.810 [D] [server.go:2807]  |            ::1|[42m 200 [0m|     10.971ms|   match|[46m POST    [0m /senduserinfo   r:/senduserinfo

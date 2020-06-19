@@ -1,0 +1,7 @@
+<!--pages/profile/profile.wxml-->
+<view class="page">
+  <view class="page__bd">
+    <y-header/>
+    <y-list/>
+  </view>
+</view>

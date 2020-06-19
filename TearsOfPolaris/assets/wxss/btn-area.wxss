@@ -1,0 +1,17 @@
+.weui-btn-area {
+  margin: 100rpx 16rpx;
+}
+
+.weui-btn {
+  /* -webkit-tap-highlight-color: transparent; */
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  flex: 1;
+  margin: 0 auto;
+  width: 400rpx;
+  padding: 24rpx 48rpx;
+  line-height: 1.41176471;
+  border-radius: 8rpx;
+  font-weight: 700;
+  font-size: 36rpx;
+}

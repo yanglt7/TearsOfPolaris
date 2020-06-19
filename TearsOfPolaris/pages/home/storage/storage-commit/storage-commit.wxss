@@ -1,0 +1,37 @@
+/* pages/home/storage/storage-commit/storage-commit.wxss */
+@import '/assets/wxss/cell.wxss';
+
+.title {
+  display: inline-block;
+  margin: 10rpx;
+  color: #69f;
+  font-size: 32rpx;
+  border-bottom: 5rpx solid #69f; 
+}
+
+.navipage {
+  margin: 20rpx;
+  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.navipage image {
+  width: 32rpx;
+  height: 32rpx;
+  margin: 0 30rpx;
+}
+
+.navipage text {
+  font-size: 28rpx;
+  color: rgba(0, 0, 0, .8);
+}
+
+.navipage .current {
+  color: #69f
+}
+
+.storage {
+  color: #69f
+}

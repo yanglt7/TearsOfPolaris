@@ -1,0 +1,8 @@
+/* pages/home/childCpns/y-swiper/y-swiper.wxss */
+.swiper-item {
+  /* height: 300rpx; */
+}
+
+.swiper-item image {
+  width: 100%;
+}

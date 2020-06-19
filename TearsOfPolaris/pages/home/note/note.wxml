@@ -1,0 +1,24 @@
+<!--pages/home/note/note.wxml-->
+<view class="page">
+  <view class="page__hd">
+    <view class="page__title">使用记录</view>
+    <view class="page__desc">鼓励申领人填写使用记录，完善试剂的痕迹管理</view>
+  </view>
+  <view class="page__bd">
+    <view class="weui-cells weui-cells_after-title">
+      <form bindsubmit="formsubmit">
+        <!-- CAS号 -->
+        <y-label id="cas" name="cas" title="CAS号" type="number" bind:no_focus="cas_no_focus" />
+        <!-- *申领订单编号 -->
+        <y-label id="order_id" name="order_id" title="申领订单编号" type="number" bind:no_focus="order_id_no_focus"  />
+        <!-- 使用过程 -->
+        <y-textarea title='使用过程' placeholder="请简略填写试剂使用记录" bind:no_focus="note_no_focus" c_titleclass="note_title" />
+
+        <!-- 提交表单 -->
+        <view class="weui-btn-area">
+          <button class="weui-btn" type="primary" form-type="submit"  bindtap="btnClick">提交</button>
+        </view>
+      </form>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "y-storage": "/pages/home/childCpns/y-storage/y-storage"
+  },
+  "navigationBarTitleText": "查询结果"
+}

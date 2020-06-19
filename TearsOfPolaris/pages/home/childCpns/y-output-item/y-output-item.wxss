@@ -1,0 +1,18 @@
+/* pages/home/output/childCpns/y-output-item/y-output-item.wxss */
+.y-output-item {
+  text-align: center;
+  margin-bottom: 30rpx;
+}
+
+.item-hover {
+  color: #69f;
+}
+
+.y-output-item .img {
+  width: 38%;
+  padding: 8rpx 10rpx;
+}
+
+.y-output-item .title {
+  font-size: 28rpx;
+}

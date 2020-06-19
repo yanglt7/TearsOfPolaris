@@ -1,0 +1,9 @@
+<!--pages/home/childCpns/y-count/y-count.wxml-->
+<view class="count">
+  <y-label class="label" title="数量" id="count" name="count" type="number" maxlength="4" bind:no_focus="count_no_focus" />
+  <picker bindchange="countPickerChange" value="{{count_index}}" range="{{count_array}}">
+    <view class="picker">
+      {{count_array[count_index]}}
+    </view>
+  </picker>
+</view>

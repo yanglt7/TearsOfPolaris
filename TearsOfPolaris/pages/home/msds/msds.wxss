@@ -1,0 +1,20 @@
+/* pages/home/msds/msds.wxss */
+@import '/assets/wxss/cell.wxss';
+
+.weui-cells {
+  padding: 30rpx;
+}
+
+.name {
+  font-size: 36rpx;
+  color: rgba(0, 0, 0, .7);
+  font-weight: 600;
+  text-decoration: underline;
+  margin-bottom: 10rpx;
+}
+
+.cas {
+  font-size: 28rpx;
+  color: rgba(0, 0, 0, .5);
+  font-weight: 600;
+}

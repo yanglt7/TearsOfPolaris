@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "y-commit-success": "/components/y-msg/y-msg-success"
+  },
+  "navigationBarTitleText": "使用记录"
+}

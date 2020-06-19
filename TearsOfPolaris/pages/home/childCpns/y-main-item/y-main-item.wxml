@@ -1,0 +1,7 @@
+<!--pages/home/childCpns/y-main-item/y-main-item.wxml-->
+<view class="main-item">
+  <view bindtap="itemClick" id="{{item.title}}" hover-class="item-hover">
+    <image class="img" src="{{item.img}}" mode="widthFix" />
+    <view class="title">{{item.title}}</view>
+  </view>
+</view>

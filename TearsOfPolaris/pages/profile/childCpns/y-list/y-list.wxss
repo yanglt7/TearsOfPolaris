@@ -1,0 +1,18 @@
+/* pages/profile/childCpns/y-list/y-list-item/y-list-item.wxss */
+@import '/assets/wxss/cell.wxss';
+
+.weui-cells__title {
+  height: 24rpx;
+  background-color: #f8f8f8;
+}
+
+.line-class::after {
+  content: " ";
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 2rpx;
+  border-bottom: 2rpx solid rgba(0, 0, 0, 0.1);
+  color: rgba(0, 0, 0, 0.1);
+  left: 88rpx;
+}

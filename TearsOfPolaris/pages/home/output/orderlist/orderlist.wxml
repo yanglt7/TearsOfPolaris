@@ -1,0 +1,10 @@
+<!--pages/home/output/orderlist/orderlist.wxml-->
+<view class="page">
+  <view class="page__hd"></view>
+  <view class="page__bd">
+    <y-tab-control id="y-tab-control" titles="{{titles}}" bind:tabClick="tabClick" />
+    <block wx:for="{{datas[currentType]}}" wx:key="index">
+      <y-order data="{{item}}"/>
+    </block>
+  </view>
+</view>

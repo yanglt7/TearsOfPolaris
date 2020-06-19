@@ -1,0 +1,6 @@
+.weui-label {
+  width: 260rpx;
+  font-size: 32rpx;
+  word-wrap: break-word;
+  word-break: break-all;
+}

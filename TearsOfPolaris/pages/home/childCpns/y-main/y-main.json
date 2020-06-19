@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "y-main-item": "/pages/home/childCpns/y-main-item/y-main-item"
+  }
+}

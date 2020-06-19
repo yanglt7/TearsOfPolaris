@@ -1,0 +1,22 @@
+<!--pages/home/childCpns/y-swiper/y-swiper.wxml-->
+<swiper class="swiper"
+        circular
+        autoplay
+        interval="3000"
+        duration="250"
+        indicator-dots
+        indicator-color="white"
+        indicator-active-color="#6699ff">
+  <!-- <swiper-item class="swiper-item">
+    <image src="/assets/swiper/swiper01.jpg" mode="widthFix"/>
+  </swiper-item> -->
+  <!-- <swiper-item class="swiper-item">
+    <image src="/assets/swiper/swiper02.jpg" mode="widthFix"/>
+  </swiper-item> -->
+  <swiper-item class="swiper-item">
+    <image src="/assets/img/swiper/swiper03.jpg" mode="widthFix"/>
+  </swiper-item>
+  <swiper-item class="swiper-item">
+    <image src="/assets/img/swiper/swiper04.jpg" mode="widthFix"/>
+  </swiper-item>
+</swiper>

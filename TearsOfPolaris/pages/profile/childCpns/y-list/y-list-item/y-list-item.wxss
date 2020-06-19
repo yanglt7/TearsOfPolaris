@@ -1,0 +1,18 @@
+/* pages/profile/childCpns/y-list/y-list-item/y-list-item.wxss */
+@import '/assets/wxss/cell.wxss';
+
+.weui-cell_active {
+  color: #6699ff;
+}
+
+.weui-cell__hd .hd_icon {
+  margin-right: 32rpx;
+  vertical-align: middle;
+  width: 48rpx; 
+  height: 48rpx;
+}
+
+.weui-cell__ft .ft_icon {
+  width: 40rpx;
+  height: 40rpx;
+}

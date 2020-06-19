@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "y-tab-control": "/components/y-tab-control/y-tab-control",
+    "y-order": "/pages/home/childCpns/y-order/y-order"
+  },
+  "navigationBarTitleText": "我的订单"
+}

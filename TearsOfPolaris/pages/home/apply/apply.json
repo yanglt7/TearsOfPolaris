@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "y-label": "/components/y-label/y-label",
+    "y-picker": "/components/y-picker/y-picker",
+    "y-multipicker": "/components/y-multipicker/y-multipicker",
+    "y-specs": "/pages/home/childCpns/y-specs/y-specs",
+    "y-count": "/pages/home/childCpns/y-count/y-count"
+  },
+  "navigationBarTitleText": "试剂申领"
+}

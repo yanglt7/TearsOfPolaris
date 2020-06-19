@@ -1,0 +1,31 @@
+<!--pages/home/output/childCpns/y-order/y-order.wxml-->
+<view class="y-order">
+  <view class="y-order_bd">
+    <view class="y-order__hd">
+      <view class="title" hover-class="title_hover" bindtap="onTitle">
+        <view class="title_left">
+          <view class="details">
+            <image src="{{details}}" bindtap="details" />
+          </view>
+          <view class="order_id">{{data.Order_id}}</view>
+          <view class="next">
+            <image src="{{next}}" bindtap="next" />
+          </view>
+        </view>
+        <view class="status">{{Check_flag[data.Check_flag]}}</view>
+      </view>
+    </view>
+    <view class="weui-cells weui-cells_after-title"></view>
+    <view class="y-order__bd">
+      <view class="desc">CAS号: {{data.Cas}}</view>
+      <block wx:if="{{data.Apply_count}}">
+        <view class="desc">申领数量: {{data.Apply_count}}</view>
+      </block>
+      <block wx:else>
+        <view class="desc">入库数量: {{data.Input_count}}</view>
+      </block>
+      <view class="desc">审核人: {{data.Check_id}}</view>
+      <view class="desc">...</view>
+    </view>
+  </view>
+</view>

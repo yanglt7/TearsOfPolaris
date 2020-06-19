@@ -1,0 +1,55 @@
+<!--pages/home/input/input.wxml-->
+<view class="page">
+  <block wx:if="{{tapIndex == 1}}">
+    <view class="page__hd">
+      <view class="page__title">试剂入库</view>
+      <view class="page__desc">试剂入库需经仓库管理员审核</view>
+    </view>
+    <view class="page__bd">
+      <view class="weui-cells weui-cells_after-title">
+        <form bindsubmit="formsubmit">
+          <!-- 经办人姓名 -->
+          <y-label title="经办人姓名" id="name" name="name" bind:no_focus="name_no_focus" />
+          <!-- 经办人学号/工号 -->
+          <y-label title="经办人学号/工号" id="id" name="id" type="number" bind:no_focus="id_no_focus" />
+          <!-- *存放地点 -->
+          <!-- 丰盛堂:南楼:北楼 -->
+          <y-multipicker label="存放地点" bind:multipickerChange="multipickerChange" />
+          <!-- 用途 -->
+          <!-- 教学/科研/社会服务/其他 -->
+          <y-picker label="用途" array="{{use_array}}" index="{{use_index}}" bind:pickerChange="usePickerChange" />
+          <!-- *审核人 -->
+          <y-label title="审核人" id="check_id" name="check_id" type="number" bind:no_focus="check_id_no_focus" />
+          <!-- *CAS号 -->
+          <y-label title="CAS号" id="cas" name="cas" bind:no_focus="cas_no_focus" />
+          <!-- *纯度 -->
+          <!-- 化学纯/分析纯/优级纯/色谱纯/其他 -->
+          <y-picker label="纯度" array="{{purity_array}}" index="{{purity_index}}" bind:pickerChange='purityPickerChange' />
+          <!-- 规格 -->
+          <y-specs bind:specs_no_focus="specs_no_focus" />
+          <!-- 数量 -->
+          <!-- <y-count bind:count_no_focus="count_no_focus" /> -->
+          <y-label title="数量" id="count" name="count" type="number" maxlength="4" bind:no_focus="count_no_focus" />
+          <!-- 生产厂家 -->
+          <y-label title="生产厂家" id="manufactor" name="manufactor" bind:no_focus="manufactor_no_focus" />
+          <!-- 供应商全称 -->
+          <y-label title="供应商全称" id="supplier" name="supplier" bind:no_focus="supplier_no_focus" />
+          <!-- 供应商电话 -->
+          <!-- 键盘number格式 -->
+          <y-label title="供应商电话" id="splPhone" name="splPhone" type="number" bind:no_focus='splPhone_no_focus' />
+          <view class="weui-cells__tips">
+            <view>*试剂必须为危险化学品名录试剂，不允许自定义输入</view>
+          </view>
+
+          <!-- 提交表单 -->
+          <view class="weui-btn-area">
+            <button class="weui-btn" type="primary" form-type="submit" bindtap="btnClick">提交</button>
+          </view>
+
+          <!-- 修复真机底部空白无法显示 -->
+          <view class="bottom-space"></view>
+        </form>
+      </view>
+    </view>
+  </block>
+</view>

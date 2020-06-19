@@ -1,0 +1,26 @@
+<!--pages/home/storage/storage.wxml-->
+<view class="page">
+  <view class="page__hd">
+    <view class="page__title">库存查询</view>
+    <view class="page__desc">可根据CAS号、纯度、规格查询试剂信息</view>
+  </view>
+  <view class="page__bd">
+    <view class="weui-cells weui-cells_after-title">
+      <form bindsubmit="formsubmit">
+        <!-- CAS号 -->
+        <!-- <y-searchbar /> -->
+        <y-label title="CAS号" id="cas" name="cas" bind:no_focus="cas_no_focus" />
+        <!-- *纯度 -->
+        <!-- 化学纯/分析纯/优级纯/色谱纯/其他 -->
+        <y-picker label="纯度" array="{{purity_array}}" index="{{purity_index}}" bind:pickerChange='purityPickerChange' />
+        <!-- 规格 -->
+        <y-specs bind:specs_no_focus="specs_no_focus" />
+
+        <!-- 提交表单 -->
+        <view class="weui-btn-area">
+          <button class="weui-btn" type="primary" bindtap="btnClick" form-type="submit">查询</button>
+        </view>
+      </form>
+    </view>
+  </view>
+</view>

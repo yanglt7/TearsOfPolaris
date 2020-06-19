@@ -1,0 +1,22 @@
+<!--pages/home/output/output.wxml-->
+<view class="page">
+  <view class="page__hd">
+    <view class="page__title">出库管理</view>
+    <view class="page__desc">申领审核通过后的订单显示在待出库列表</view>
+  </view>
+  <view class="weui-cells weui-cells_after-title"></view>
+  <view class="page__bd">
+    <view class="myorder">
+      <view class="myorder_hd">
+        <view class="title">我的订单</view>
+        <view class="desc" bindtap="itemClick">查看全部订单 ></view>
+      </view>
+      <view class="weui-cells weui-cells_after-title"></view>
+      <view class="myorder_bd">
+        <block wx:for="{{orderlist}}" wx:key="index">
+          <y-output-item class="item" item="{{item}}" bind:itemClick="itemClick"/>
+        </block>
+      </view>
+    </view>
+  </view>
+</view>

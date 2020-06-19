@@ -1,0 +1,43 @@
+/* pages/profile/childCpns/y-header/editUserInfo/editUserInfo.wxss */
+@import '/assets/wxss/cell.wxss';
+@import '/assets/wxss/select.wxss';
+
+.page__hd {
+  height: 60rpx;
+  line-height: 60rpx;
+  color: #6699ff;
+  /* background-color: #f8f8f8; */
+  display: flex;
+  justify-content: space-between;
+  border: 1rpx solid rgba(0, 0, 0, .2)
+}
+
+.avatar {
+  width: 220rpx;
+  height: 220rpx;
+  border-radius: 110rpx;
+  overflow: hidden;
+  margin: 90rpx auto;
+}
+
+.weui-input {
+  height: 1.41176471em;
+  min-height: 1.41176471em;
+  line-height: 1.41176471;
+}
+
+.weui-label {
+	width:105px;
+	word-wrap:break-word;
+	word-break:break-all;
+}
+
+.weui-cells__title {
+  height: 24rpx;
+  background-color: #f8f8f8;
+}
+
+.weui-cell {
+  height: 40rpx;
+  padding: 40rpx;
+}

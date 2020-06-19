@@ -1,0 +1,20 @@
+<!--pages/profile/aboutUs/aboutUs.wxml-->
+<view class="page">
+  <view class="page__bd aboutUs_bd">
+    <view class="hope_logo">
+      <image src="/assets/img/aboutUs/hope_logo.png" />
+      <view class="hope_title">厚朴【HOPE】工作室</view>
+      <view class="hope_comment">致力于IT教育</view>
+    </view>
+    <view class="hope_content">
+      十余载，白云苍狗，本学院IT工作从无到有，始于简而尚未成于巨，抚今追昔，筚路蓝缕，任重道远。 20世纪90年代中期，电子课件制作起步；90年代末期，学院全面接入校园网，开通网站。
+    </view>
+    <view class="hope_content">
+      2002年顺势成立学院多媒体与网络教学领导小组，集思广益，广纳贤才，别名 “厚朴工作室”。
+    </view>
+    <view class="hope_footer">
+      <view class="hope_website">网站地址:  http://202.116.83.50/hope</view>
+      <view class="hope_tel">办公电话:  020 - 84115662</view>  
+    </view>
+  </view>
+</view>

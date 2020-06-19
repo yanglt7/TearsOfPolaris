@@ -1,0 +1,9 @@
+<!--components/y-label/y-label.wxml-->
+<view class="weui-cell ">
+  <view class="weui-cell__hd">
+    <view class="weui-label">{{title}}</view>
+  </view>
+  <view class="weui-cell__bd">
+    <input id="{{name}}" class="weui-input" placeholder="请输入{{title}}" bindblur="no_focus" maxlength="{{maxlength}}" type="{{type}}" />
+  </view>
+</view>

@@ -1,0 +1,7 @@
+/* components/y-btn-area/y-btn-area.wxss */
+@import '/assets/wxss/btn-area.wxss';
+
+.bottomarea {
+  height: 20rpx;
+  background-color: #fff;
+}

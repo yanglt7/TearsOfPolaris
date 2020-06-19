@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "y-label": "/components/y-label/y-label",
+    "y-picker": "/components/y-picker/y-picker",
+    "y-textarea": "/components/y-textarea/y-textarea"
+  },
+  "navigationBarTitleText": "使用记录"
+}

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "y-output-item": "/pages/home/childCpns/y-output-item/y-output-item"
+  },
+  "navigationBarTitleText": "出库管理"
+}

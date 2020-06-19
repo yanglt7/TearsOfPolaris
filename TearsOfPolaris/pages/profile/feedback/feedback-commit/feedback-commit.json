@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "y-uploader": "/components/y-uploader/y-uploader",
+    "y-textarea": "/components/y-textarea/y-textarea",
+    "y-agree": "/components/y-agree/y-agree"
+  },
+  "navigationBarTitleText": "意见反馈"
+}
